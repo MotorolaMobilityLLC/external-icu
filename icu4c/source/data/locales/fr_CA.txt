@@ -172,7 +172,7 @@ fr_CA{
                 "HH:mm:ss zzzz",
                 "HH:mm:ss z",
                 "HH:mm:ss",
-                "HH 'h' mm",
+                "HH:mm",
                 "EEEE d MMMM y",
                 "d MMMM y",
                 "d MMM y",
