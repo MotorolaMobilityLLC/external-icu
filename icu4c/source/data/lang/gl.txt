@@ -188,6 +188,7 @@ gl{
         kea{"caboverdiano"}
         kfo{"koro"}
         kg{"kongo"}
+        kgp{"kaingang"}
         kha{"khasi"}
         khq{"koyra chiini"}
         ki{"kikuyu"}
@@ -418,6 +419,7 @@ gl{
         ybb{"yemba"}
         yi{"yiddish"}
         yo{"ioruba"}
+        yrl{"nheengatu"}
         yue{"cantonés"}
         zgh{"tamazight marroquí estándar"}
         zh{"chinés"}

@@ -245,6 +245,7 @@ pt{
         kea{"crioulo cabo-verdiano"}
         kfo{"koro"}
         kg{"congolês"}
+        kgp{"kaingang"}
         kha{"khasi"}
         kho{"khotanês"}
         khq{"koyra chiini"}
@@ -531,6 +532,7 @@ pt{
         ybb{"yemba"}
         yi{"iídiche"}
         yo{"iorubá"}
+        yrl{"nheengatu"}
         yue{"cantonês"}
         za{"zhuang"}
         zap{"zapoteco"}

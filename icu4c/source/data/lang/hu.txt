@@ -254,6 +254,7 @@ hu{
         kea{"kabuverdianu"}
         kfo{"koro"}
         kg{"kongo"}
+        kgp{"kaingang"}
         kha{"kaszi"}
         kho{"kotanéz"}
         khq{"kojra-csíni"}
@@ -542,6 +543,7 @@ hu{
         ybb{"jemba"}
         yi{"jiddis"}
         yo{"joruba"}
+        yrl{"nheengatu"}
         yue{"kantoni"}
         za{"zsuang"}
         zap{"zapoték"}

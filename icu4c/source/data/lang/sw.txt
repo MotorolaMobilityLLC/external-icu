@@ -202,6 +202,7 @@ sw{
         kea{"Kikabuverdianu"}
         kfo{"Kikoro"}
         kg{"Kikongo"}
+        kgp{"Kaingang"}
         kha{"Kikhasi"}
         khq{"Koyra Chiini"}
         ki{"Kikikuyu"}
@@ -441,6 +442,7 @@ sw{
         ybb{"Kiyemba"}
         yi{"Kiyiddi"}
         yo{"Kiyoruba"}
+        yrl{"Nheengatu"}
         yue{"Kikantoni"}
         zgh{"Kiberber Sanifu cha Moroko"}
         zh{"Kichina"}

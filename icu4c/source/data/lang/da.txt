@@ -254,6 +254,7 @@ da{
         kea{"kapverdisk"}
         kfo{"koro"}
         kg{"kongo"}
+        kgp{"kaingang"}
         kha{"khasi"}
         kho{"khotanesisk"}
         khq{"koyra-chiini"}
@@ -541,6 +542,7 @@ da{
         ybb{"yemba"}
         yi{"jiddisch"}
         yo{"yoruba"}
+        yrl{"nheengatu"}
         yue{"kantonesisk"}
         za{"zhuang"}
         zap{"zapotec"}

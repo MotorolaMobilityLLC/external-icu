@@ -259,6 +259,7 @@ id{
         ken{"Kenyang"}
         kfo{"Koro"}
         kg{"Kongo"}
+        kgp{"Kaingang"}
         kha{"Khasi"}
         kho{"Khotan"}
         khq{"Koyra Chiini"}
@@ -556,6 +557,7 @@ id{
         ybb{"Yemba"}
         yi{"Yiddish"}
         yo{"Yoruba"}
+        yrl{"Nheengatu"}
         yue{"Kanton"}
         za{"Zhuang"}
         zap{"Zapotek"}

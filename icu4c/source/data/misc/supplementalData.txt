@@ -14022,6 +14022,7 @@ supplementalData:table(nofallback){
         kgp{
             primary{
                 scripts{"Latn"}
+                territories{"BR"}
             }
         }
         kha{
@@ -17112,6 +17113,11 @@ supplementalData:table(nofallback){
         yrl{
             primary{
                 scripts{"Latn"}
+                territories{
+                    "BR",
+                    "CO",
+                    "VE",
+                }
             }
         }
         yua{
@@ -27555,7 +27561,7 @@ supplementalData:table(nofallback){
                 populationShareF:int{47210000}
             }
             kgp{
-                populationShareF:int{46100000}
+                populationShareF:int{46240000}
             }
             ko{
                 populationShareF:int{46210000}
@@ -27573,7 +27579,7 @@ supplementalData:table(nofallback){
                 populationShareF:int{45480000}
             }
             yrl{
-                populationShareF:int{45520000}
+                populationShareF:int{46104000}
             }
         }
         BS{
@@ -28143,6 +28149,9 @@ supplementalData:table(nofallback){
                 61711600,
                 49936000,
                 57481690,
+            }
+            yrl{
+                populationShareF:int{45620000}
             }
         }
         CP{
@@ -33238,6 +33247,9 @@ supplementalData:table(nofallback){
                 61381600,
                 49955000,
                 57316892,
+            }
+            yrl{
+                populationShareF:int{45630000}
             }
         }
         VG{

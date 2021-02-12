@@ -444,6 +444,8 @@
 		<include locales="kde_TZ"/>
 		<include locales="kea"/>
 		<include locales="kea_CV"/>
+		<include locales="kgp"/>
+		<include locales="kgp_BR"/>
 		<include locales="khq"/>
 		<include locales="khq_ML"/>
 		<include locales="ki"/>
@@ -783,6 +785,10 @@
 		<include locales="yo"/>
 		<include locales="yo_BJ"/>
 		<include locales="yo_NG"/>
+		<include locales="yrl"/>
+		<include locales="yrl_BR"/>
+		<include locales="yrl_CO"/>
+		<include locales="yrl_VE"/>
 		<include locales="yue"/>
 		<include locales="yue_Hans"/>
 		<include locales="yue_Hans_CN"/>

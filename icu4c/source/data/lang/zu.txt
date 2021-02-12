@@ -190,6 +190,7 @@ zu{
         kea{"isi-Kabuverdianu"}
         kfo{"isi-Koro"}
         kg{"isi-Kongo"}
+        kgp{"isi-Kaingang"}
         kha{"isi-Khasi"}
         khq{"isi-Koyra Chiini"}
         ki{"isi-Kikuyu"}
@@ -421,6 +422,7 @@ zu{
         ybb{"isi-Yemba"}
         yi{"isi-Yiddish"}
         yo{"isi-Yoruba"}
+        yrl{"isi-Nheengatu"}
         yue{"isi-Cantonese"}
         zgh{"isi-Moroccan Tamazight esivamile"}
         zh{"isi-Chinese"}

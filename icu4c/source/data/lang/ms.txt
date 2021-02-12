@@ -218,6 +218,7 @@ ms{
         kea{"Kabuverdianu"}
         kfo{"Koro"}
         kg{"Kongo"}
+        kgp{"Kaingang"}
         kha{"Khasi"}
         khq{"Koyra Chiini"}
         khw{"Khowar"}
@@ -458,6 +459,7 @@ ms{
         ybb{"Yemba"}
         yi{"Yiddish"}
         yo{"Yoruba"}
+        yrl{"Nheengatu"}
         yue{"Kantonis"}
         zgh{"Tamazight Maghribi Standard"}
         zh{"Cina"}

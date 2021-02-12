@@ -238,6 +238,7 @@ bs{
         kea{"zelenortski"}
         kfo{"koro"}
         kg{"kongo"}
+        kgp{"kaingang"}
         kha{"kasi"}
         kho{"kotanizijski"}
         khq{"kojra čini"}
@@ -521,6 +522,7 @@ bs{
         ybb{"jemba"}
         yi{"jidiš"}
         yo{"jorubanski"}
+        yrl{"nheengatu"}
         yue{"kantonski"}
         za{"zuang"}
         zap{"zapotečki"}
