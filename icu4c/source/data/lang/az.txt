@@ -235,6 +235,7 @@ az{
         kea{"kabuverdian"}
         kfo{"koro"}
         kg{"konqo"}
+        kgp{"kaingang"}
         kha{"xazi"}
         kho{"xotan"}
         khq{"koyra çiini"}
@@ -514,6 +515,7 @@ az{
         ybb{"yemba"}
         yi{"idiş"}
         yo{"yoruba"}
+        yrl{"nheengatu"}
         yue{"kanton"}
         za{"çjuan"}
         zap{"zapotek"}

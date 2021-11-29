@@ -247,6 +247,7 @@ is{
         kea{"grænhöfðeyska"}
         kfo{"koro"}
         kg{"kongóska"}
+        kgp{"kaingang"}
         kha{"kasí"}
         kho{"kotaska"}
         khq{"koyra chiini"}
@@ -528,6 +529,7 @@ is{
         ybb{"yemba"}
         yi{"jiddíska"}
         yo{"jórúba"}
+        yrl{"nheengatu"}
         yue{"kantónska"}
         za{"súang"}
         zap{"sapótek"}

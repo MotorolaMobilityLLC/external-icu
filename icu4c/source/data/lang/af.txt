@@ -189,6 +189,7 @@ af{
         kea{"Kabuverdianu"}
         kfo{"Koro"}
         kg{"Kongolees"}
+        kgp{"Kaingang"}
         kha{"Khasi"}
         khq{"Koyra Chiini"}
         ki{"Kikuyu"}
@@ -417,6 +418,7 @@ af{
         ybb{"Yemba"}
         yi{"Jiddisj"}
         yo{"Yoruba"}
+        yrl{"Nheengatu"}
         yue{"Kantonees"}
         zgh{"Standaard Marokkaanse Tamazight"}
         zh{"Chinees"}

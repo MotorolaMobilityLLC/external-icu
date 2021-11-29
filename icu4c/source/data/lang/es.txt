@@ -256,6 +256,7 @@ es{
         kea{"criollo caboverdiano"}
         kfo{"koro"}
         kg{"kongo"}
+        kgp{"káingang"}
         kha{"khasi"}
         kho{"kotanés"}
         khq{"koyra chiini"}
@@ -544,6 +545,7 @@ es{
         ybb{"yemba"}
         yi{"yidis"}
         yo{"yoruba"}
+        yrl{"ñe'engatú"}
         yue{"cantonés"}
         za{"zhuang"}
         zap{"zapoteco"}

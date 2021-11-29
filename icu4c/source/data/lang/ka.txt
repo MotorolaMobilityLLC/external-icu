@@ -219,6 +219,8 @@ ka{
         kea{"კაბუვერდიანუ"}
         kfo{"კორო"}
         kg{"კონგო"}
+        kgp{"Kaingang"}
+        yrl{"Nheengatu"}
         kha{"ხასი"}
         khq{"კოირა-ჩიინი"}
         ki{"კიკუიუ"}

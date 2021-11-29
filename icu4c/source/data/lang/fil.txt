@@ -190,6 +190,7 @@ fil{
         kea{"Kabuverdianu"}
         kfo{"Koro"}
         kg{"Kongo"}
+        kgp{"Kaingang"}
         kha{"Khasi"}
         khq{"Koyra Chiini"}
         ki{"Kikuyu"}
@@ -421,6 +422,7 @@ fil{
         ybb{"Yemba"}
         yi{"Yiddish"}
         yo{"Yoruba"}
+        yrl{"Nheengatu"}
         yue{"Cantonese"}
         zgh{"Standard Moroccan Tamazight"}
         zh{"Chinese"}

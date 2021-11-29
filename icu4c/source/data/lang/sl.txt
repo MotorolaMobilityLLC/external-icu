@@ -242,6 +242,7 @@ sl{
         kea{"zelenortskootoška kreolščina"}
         kfo{"koro"}
         kg{"kongovščina"}
+        kgp{"kaingang"}
         kha{"kasi"}
         kho{"kotanščina"}
         khq{"koyra chiini"}
@@ -521,6 +522,7 @@ sl{
         ybb{"jembajščina"}
         yi{"jidiš"}
         yo{"jorubščina"}
+        yrl{"nheengatu"}
         yue{"kantonščina"}
         zap{"zapoteščina"}
         zbl{"znakovni jezik Bliss"}

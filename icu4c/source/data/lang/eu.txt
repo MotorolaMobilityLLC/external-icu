@@ -188,6 +188,7 @@ eu{
         kea{"Cabo Verdeko kreolera"}
         kfo{"koroa"}
         kg{"kikongoa"}
+        kgp{"kaingang"}
         kha{"kashia"}
         khq{"koyra chiini"}
         ki{"kikuyuera"}
@@ -416,6 +417,7 @@ eu{
         ybb{"yemba"}
         yi{"yiddish"}
         yo{"jorubera"}
+        yrl{"nheengatu"}
         yue{"kantonera"}
         zgh{"amazigera estandarra"}
         zh{"txinera"}

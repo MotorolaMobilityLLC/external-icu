@@ -277,6 +277,7 @@ vi{
         kea{"Tiếng Kabuverdianu"}
         kfo{"Tiếng Koro"}
         kg{"Tiếng Kongo"}
+        kgp{"Tiếng Kaingang"}
         kha{"Tiếng Khasi"}
         kho{"Tiếng Khotan"}
         khq{"Tiếng Koyra Chiini"}
@@ -566,6 +567,7 @@ vi{
         ybb{"Tiếng Yemba"}
         yi{"Tiếng Yiddish"}
         yo{"Tiếng Yoruba"}
+        yrl{"Tiếng Nheengatu"}
         yue{"Tiếng Quảng Đông"}
         za{"Tiếng Choang"}
         zap{"Tiếng Zapotec"}

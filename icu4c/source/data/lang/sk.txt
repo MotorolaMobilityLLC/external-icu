@@ -253,6 +253,7 @@ sk{
         kea{"kapverdčina"}
         kfo{"koro"}
         kg{"kongčina"}
+        kgp{"kaingang"}
         kha{"khasijčina"}
         kho{"chotančina"}
         khq{"západná songhajčina"}
@@ -539,6 +540,7 @@ sk{
         ybb{"yemba"}
         yi{"jidiš"}
         yo{"jorubčina"}
+        yrl{"nheengatu"}
         yue{"kantončina"}
         za{"čuangčina"}
         zap{"zapotéčtina"}

@@ -177,6 +177,7 @@ sq{
         kde{"makondisht"}
         kea{"kreolishte e Kepit të Gjelbër"}
         kfo{"koroisht"}
+        kgp{"kaingang"}
         kha{"kasisht"}
         khq{"kojraçinisht"}
         ki{"kikujuisht"}
@@ -406,6 +407,7 @@ sq{
         ybb{"jembaisht"}
         yi{"jidisht"}
         yo{"jorubaisht"}
+        yrl{"nheengatu"}
         yue{"kantonezisht"}
         zgh{"tamaziatishte standarde marokene"}
         zh{"kinezisht"}

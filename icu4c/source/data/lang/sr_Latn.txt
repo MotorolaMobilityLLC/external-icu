@@ -238,6 +238,7 @@ sr_Latn{
         kea{"zelenortski"}
         kfo{"koro"}
         kg{"kongo"}
+        kgp{"kaingang"}
         kha{"kasi"}
         kho{"kotaneški"}
         khq{"kojra čiini"}
@@ -519,6 +520,7 @@ sr_Latn{
         ybb{"jemba"}
         yi{"jidiš"}
         yo{"joruba"}
+        yrl{"nheengatu"}
         yue{"kantonski"}
         za{"džuanški"}
         zap{"zapotečki"}

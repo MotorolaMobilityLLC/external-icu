@@ -177,6 +177,7 @@ uz{
         kde{"makonde"}
         kea{"kabuverdianu"}
         kfo{"koro"}
+        kgp{"kaingang"}
         kha{"kxasi"}
         khq{"koyra-chiini"}
         ki{"kikuyu"}
@@ -403,6 +404,7 @@ uz{
         ybb{"yemba"}
         yi{"idish"}
         yo{"yoruba"}
+        yrl{"nheengatu"}
         yue{"kanton"}
         zgh{"tamazigxt"}
         zh{"xitoy"}

@@ -257,6 +257,7 @@ hr{
         kea{"zelenortski"}
         kfo{"koro"}
         kg{"kongo"}
+        kgp{"kaingang"}
         kha{"khasi"}
         kho{"khotanese"}
         khq{"koyra chiini"}
@@ -545,6 +546,7 @@ hr{
         ybb{"yemba"}
         yi{"jidiš"}
         yo{"jorupski"}
+        yrl{"nheengatu"}
         yue{"kantonski"}
         za{"zhuang"}
         zap{"zapotečki"}

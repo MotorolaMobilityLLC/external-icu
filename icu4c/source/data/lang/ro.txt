@@ -247,6 +247,7 @@ ro{
         kea{"kabuverdianu"}
         kfo{"koro"}
         kg{"congoleză"}
+        kgp{"kaingang"}
         kha{"khasi"}
         kho{"khotaneză"}
         khq{"koyra chiini"}
@@ -533,6 +534,7 @@ ro{
         ybb{"yemba"}
         yi{"idiș"}
         yo{"yoruba"}
+        yrl{"nheengatu"}
         yue{"cantoneză"}
         za{"zhuang"}
         zap{"zapotecă"}

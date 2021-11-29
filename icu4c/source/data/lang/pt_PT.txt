@@ -63,6 +63,7 @@ pt_PT{
         hi{"hindi"}
         hy{"arménio"}
         kbd{"cabardiano"}
+        kgp{"caingangue"}
         kl{"gronelandês"}
         krc{"carachaio-bálcaro"}
         lez{"lezghiano"}

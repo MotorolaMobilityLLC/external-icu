@@ -244,6 +244,7 @@ lv{
         kea{"kaboverdiešu"}
         kfo{"koru"}
         kg{"kongu"}
+        kgp{"kaingang"}
         kha{"khasu"}
         kho{"hotaniešu"}
         khq{"koiračiinī"}
@@ -528,6 +529,7 @@ lv{
         ybb{"jembu"}
         yi{"jidišs"}
         yo{"jorubu"}
+        yrl{"nheengatu"}
         yue{"kantoniešu"}
         za{"džuanu"}
         zap{"sapoteku"}
