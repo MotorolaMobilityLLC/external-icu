@@ -251,6 +251,7 @@ ga{
         kv{"Coimis"}
         kw{"Coirnis"}
         kwk{"Kwakʼwala"}
+        kxv{"Kuvi"}
         ky{"Cirgisis"}
         la{"Laidin"}
         lad{"Laidínis"}
@@ -486,6 +487,7 @@ ga{
         wuu{"Sínis Wu"}
         xal{"Cailmícis"}
         xh{"Cóisis"}
+        xnr{"Kangri"}
         xog{"Soga"}
         yav{"Yangben"}
         ybb{"Yemba"}

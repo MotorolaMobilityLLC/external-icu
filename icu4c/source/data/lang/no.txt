@@ -328,6 +328,7 @@ no{
         kv{"komi"}
         kw{"kornisk"}
         kwk{"kwak̓wala"}
+        kxv{"Kuvi"}
         ky{"kirgisisk"}
         la{"latin"}
         lad{"ladinsk"}
@@ -637,6 +638,7 @@ no{
         xal{"kalmukkisk"}
         xh{"xhosa"}
         xmf{"mingrelsk"}
+        xnr{"Kangri"}
         xog{"soga"}
         yao{"yao"}
         yap{"yapesisk"}

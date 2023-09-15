@@ -238,6 +238,7 @@ af{
         kv{"Komi"}
         kw{"Kornies"}
         kwk{"Kwak’wala"}
+        kxv{"Kuvi"}
         ky{"Kirgisies"}
         la{"Latyn"}
         lad{"Ladino"}
@@ -453,6 +454,7 @@ af{
         wuu{"Wu-Sjinees"}
         xal{"Kalmyk"}
         xh{"Xhosa"}
+        xnr{"Kangri"}
         xog{"Soga"}
         yav{"Yangben"}
         ybb{"Yemba"}

@@ -340,6 +340,7 @@ sv{
         kv{"kome"}
         kw{"korniska"}
         kwk{"kwakʼwala"}
+        kxv{"Kuvi"}
         ky{"kirgiziska"}
         la{"latin"}
         lad{"ladino"}
@@ -651,6 +652,7 @@ sv{
         xal{"kalmuckiska"}
         xh{"xhosa"}
         xmf{"mingrelianska"}
+        xnr{"Kangri"}
         xog{"lusoga"}
         yao{"kiyao"}
         yap{"japetiska"}

@@ -219,6 +219,7 @@ ig{
         kv{"Komi"}
         kw{"Kọnịsh"}
         kwk{"Kwakwala"}
+        kxv{"Kuvi"}
         ky{"Kyrayz"}
         la{"Latịn"}
         lad{"Ladino"}
@@ -423,6 +424,7 @@ ig{
         wuu{"Wụ Chainisị"}
         xal{"Kalmik"}
         xh{"Xhọsa"}
+        xnr{"Kangri"}
         xog{"Sọga"}
         yav{"Yangben"}
         ybb{"Yemba"}

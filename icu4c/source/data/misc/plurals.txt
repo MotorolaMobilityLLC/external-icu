@@ -104,6 +104,7 @@ plurals:table(nofallback){
         ksh{"set14"}
         ku{"set7"}
         kw{"set36"}
+        kxv{"set16"}
         ky{"set7"}
         lag{"set13"}
         lb{"set7"}
@@ -216,6 +217,7 @@ plurals:table(nofallback){
         wae{"set7"}
         wo{"set0"}
         xh{"set7"}
+        xnr{"set1"}
         xog{"set7"}
         yi{"set3"}
         yo{"set0"}

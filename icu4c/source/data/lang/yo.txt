@@ -219,6 +219,7 @@ yo{
         kv{"Èdè Komi"}
         kw{"Èdè Kọ́nììṣì"}
         kwk{"Èdè Kwawala"}
+        kxv{"Kuvi"}
         ky{"Kírígíìsì"}
         la{"Èdè Latini"}
         lad{"Èdè Ladino"}
@@ -423,6 +424,7 @@ yo{
         wuu{"Èdè Wu ti Saina"}
         xal{"Èdè Kalimi"}
         xh{"Èdè Xhosa"}
+        xnr{"Kangri"}
         xog{"Ṣógà"}
         yav{"Yangbẹn"}
         ybb{"Èdè Yemba"}

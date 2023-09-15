@@ -15,7 +15,7 @@ yrl_CO{
         nds_NL{"sakisan yatuka"}
         und{"ũba uyukuau ñeẽga"}
         wa{"waran"}
-        yrl{"ñengatú"}
+        yrl{"ñengatu"}
         zgh{"tamasiriti marukinu padran"}
         zh{"xinañeẽga"}
         zh_Hans{"xinañeẽga iwasuĩma"}

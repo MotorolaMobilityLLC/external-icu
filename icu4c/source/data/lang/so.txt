@@ -221,6 +221,7 @@ so{
         kv{"Komi"}
         kw{"Kornish"}
         kwk{"Kwakʼwala"}
+        kxv{"Kuvi"}
         ky{"Kirgiis"}
         la{"Laatiin"}
         lad{"Ladino"}
@@ -427,6 +428,7 @@ so{
         wuu{"Wu Chinese"}
         xal{"Kalmyk"}
         xh{"Hoosta"}
+        xnr{"Kangri"}
         xog{"Sooga"}
         yav{"Yaangbeen"}
         ybb{"Yemba"}

@@ -322,6 +322,7 @@ vi{
         kv{"Tiếng Komi"}
         kw{"Tiếng Cornwall"}
         kwk{"Tiếng Kwakʼwala"}
+        kxv{"Kuvi"}
         ky{"Tiếng Kyrgyz"}
         la{"Tiếng La-tinh"}
         lad{"Tiếng Ladino"}
@@ -591,6 +592,7 @@ vi{
         wuu{"Tiếng Ngô"}
         xal{"Tiếng Kalmyk"}
         xh{"Tiếng Xhosa"}
+        xnr{"Kangri"}
         xog{"Tiếng Soga"}
         yao{"Tiếng Yao"}
         yap{"Tiếng Yap"}
