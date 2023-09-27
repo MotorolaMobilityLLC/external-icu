@@ -328,7 +328,6 @@ nl{
         kv{"Komi"}
         kw{"Cornish"}
         kwk{"Kwakʼwala"}
-        kxv{"Kuvi"}
         ky{"Kirgizisch"}
         la{"Latijn"}
         lad{"Ladino"}
@@ -636,7 +635,6 @@ nl{
         xal{"Kalmuks"}
         xh{"Xhosa"}
         xmf{"Mingreels"}
-        xnr{"Kangri"}
         xog{"Soga"}
         yao{"Yao"}
         yap{"Yapees"}

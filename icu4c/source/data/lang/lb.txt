@@ -306,7 +306,6 @@ lb{
         kut{"Kutenai-Sprooch"}
         kv{"Komi-Sprooch"}
         kw{"Kornesch"}
-        kxv{"Kuvi"}
         ky{"Kirgisesch"}
         la{"Latäin"}
         lad{"Ladino"}
@@ -594,7 +593,6 @@ lb{
         xal{"Kalmückesch"}
         xh{"Xhosa"}
         xmf{"Mingrelesch Sprooch"}
-        xnr{"Kangri"}
         xog{"Soga"}
         yao{"Yao-Sprooch"}
         yap{"Yapesesch"}

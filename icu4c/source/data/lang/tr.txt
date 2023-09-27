@@ -340,7 +340,6 @@ tr{
         kv{"Komi"}
         kw{"Kernevekçe"}
         kwk{"Kwakʼwala dili"}
-        kxv{"Kuvi"}
         ky{"Kırgızca"}
         la{"Latince"}
         lad{"Ladino"}
@@ -652,7 +651,6 @@ tr{
         xal{"Kalmıkça"}
         xh{"Zosa dili"}
         xmf{"Megrelce"}
-        xnr{"Kangri"}
         xog{"Soga"}
         yao{"Yao"}
         yap{"Yapça"}

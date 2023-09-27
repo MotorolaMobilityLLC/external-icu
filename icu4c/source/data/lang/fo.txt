@@ -198,7 +198,6 @@ fo{
         kum{"kumyk"}
         kv{"komi"}
         kw{"corniskt"}
-        kxv{"Kuvi"}
         ky{"kyrgyz"}
         la{"latín"}
         lad{"ladino"}
@@ -399,7 +398,6 @@ fo{
         wuu{"wu kinesiskt"}
         xal{"kalmyk"}
         xh{"xhosa"}
-        xnr{"Kangri"}
         xog{"soga"}
         yav{"yangben"}
         ybb{"yemba"}

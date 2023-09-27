@@ -250,7 +250,6 @@ mt{
         kut{"Kutenaj"}
         kv{"Komi"}
         kw{"Korniku"}
-        kxv{"Kuvi"}
         ky{"Kirgiż"}
         la{"Latin"}
         lad{"Ladino"}
@@ -490,7 +489,6 @@ mt{
         wo{"Wolof"}
         xal{"Kalmyk"}
         xh{"Xhosa"}
-        xnr{"Kangri"}
         xog{"Soga"}
         yao{"Yao"}
         yap{"Yapese"}

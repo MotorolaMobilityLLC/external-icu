@@ -237,7 +237,6 @@ eu{
         kv{"komiera"}
         kw{"kornubiera"}
         kwk{"kwakwala"}
-        kxv{"Kuvi"}
         ky{"kirgizera"}
         la{"latina"}
         lad{"ladinoa"}
@@ -456,7 +455,6 @@ eu{
         wuu{"wu txinera"}
         xal{"kalmykera"}
         xh{"xhosera"}
-        xnr{"Kangri"}
         xog{"sogera"}
         yav{"yangbenera"}
         ybb{"yemba"}

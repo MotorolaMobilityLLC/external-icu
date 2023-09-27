@@ -284,7 +284,6 @@ cy{
         kv{"Comi"}
         kw{"Cernyweg"}
         kwk{"Kwakʼwala"}
-        kxv{"Kuvi"}
         ky{"Cirgiseg"}
         la{"Lladin"}
         lad{"Iddew-Sbaeneg"}
@@ -569,7 +568,6 @@ cy{
         wuu{"Wu Tsieineaidd"}
         xal{"Calmyceg"}
         xh{"Xhosa"}
-        xnr{"Kangri"}
         xog{"Soga"}
         yav{"Iangben"}
         ybb{"Iembaeg"}

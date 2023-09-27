@@ -222,7 +222,6 @@ ha{
         kv{"Komi"}
         kw{"Cornish"}
         kwk{"Kwakʼwala"}
-        kxv{"Kuvi"}
         ky{"Kirgizanci"}
         la{"Dan Kabilar Latin"}
         lad{"Ladino"}
@@ -430,7 +429,6 @@ ha{
         wuu{"Sinancin Wu"}
         xal{"Kalmyk"}
         xh{"Bazosa"}
-        xnr{"Kangri"}
         xog{"Soga"}
         yav{"Yangben"}
         ybb{"Yemba"}

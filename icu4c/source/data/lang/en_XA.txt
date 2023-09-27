@@ -365,7 +365,6 @@ en_XA{
         kv{"[Ķöɱî one]"}
         kw{"[Çöŕñîšĥ one two]"}
         kwk{"[Ķŵåķʼŵåļå one two]"}
-        kxv{"[Ķûṽî one]"}
         ky{"[Ķýŕĝýž one]"}
         la{"[Ļåţîñ one]"}
         lad{"[Ļåðîñö one]"}
@@ -680,7 +679,6 @@ en_XA{
         xal{"[Ķåļɱýķ one]"}
         xh{"[Ẋĥöšå one]"}
         xmf{"[Ṁîñĝŕéļîåñ one two]"}
-        xnr{"[Ķåñĝŕî one]"}
         xog{"[Šöĝå one]"}
         yao{"[Ýåö one]"}
         yap{"[Ýåþéšé one]"}

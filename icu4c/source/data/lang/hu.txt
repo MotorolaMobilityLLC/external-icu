@@ -301,7 +301,6 @@ hu{
         kv{"komi"}
         kw{"korni"}
         kwk{"kwakʼwala"}
-        kxv{"Kuvi"}
         ky{"kirgiz"}
         la{"latin"}
         lad{"ladino"}
@@ -571,7 +570,6 @@ hu{
         wuu{"wu kínai"}
         xal{"kalmük"}
         xh{"xhosza"}
-        xnr{"Kangri"}
         xog{"szoga"}
         yao{"jaó"}
         yap{"japi"}

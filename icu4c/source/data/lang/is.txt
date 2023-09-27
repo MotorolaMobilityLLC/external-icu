@@ -293,7 +293,6 @@ is{
         kv{"komíska"}
         kw{"kornbreska"}
         kwk{"kwakʼwala"}
-        kxv{"Kuvi"}
         ky{"kirgiska"}
         la{"latína"}
         lad{"ladínska"}
@@ -556,7 +555,6 @@ is{
         wuu{"wu-kínverska"}
         xal{"kalmúkska"}
         xh{"sósa"}
-        xnr{"Kangri"}
         xog{"sóga"}
         yao{"jaó"}
         yap{"japíska"}

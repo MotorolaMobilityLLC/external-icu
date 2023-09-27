@@ -339,7 +339,6 @@ fi{
         kv{"komi"}
         kw{"korni"}
         kwk{"kwakʼwala"}
-        kxv{"Kuvi"}
         ky{"kirgiisi"}
         la{"latina"}
         lad{"ladino"}
@@ -651,7 +650,6 @@ fi{
         xal{"kalmukki"}
         xh{"xhosa"}
         xmf{"mingreli"}
-        xnr{"Kangri"}
         xog{"soga"}
         yao{"jao"}
         yap{"japi"}

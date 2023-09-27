@@ -266,7 +266,6 @@ ms{
         kv{"Komi"}
         kw{"Cornish"}
         kwk{"Kwak’wala"}
-        kxv{"Kuvi"}
         ky{"Kirghiz"}
         la{"Latin"}
         lad{"Ladino"}
@@ -492,7 +491,6 @@ ms{
         wuu{"Cina Wu"}
         xal{"Kalmyk"}
         xh{"Xhosa"}
-        xnr{"Kangri"}
         xog{"Soga"}
         yav{"Yangben"}
         ybb{"Yemba"}

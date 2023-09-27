@@ -277,7 +277,6 @@ kgp{
         kut{"kutenaj"}
         kv{"komĩ"}
         kw{"kórnĩko"}
-        kxv{"Kuvi"}
         ky{"kirginh"}
         la{"ratĩnh"}
         lad{"raninũ"}
@@ -527,7 +526,6 @@ kgp{
         wuu{"vu"}
         xal{"karmĩg"}
         xh{"sosa"}
-        xnr{"Kangri"}
         xog{"rusoga"}
         yao{"javo"}
         yap{"japese"}

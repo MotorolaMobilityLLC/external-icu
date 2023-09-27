@@ -339,7 +339,6 @@ fr{
         kv{"komi"}
         kw{"cornique"}
         kwk{"kwak’wala"}
-        kxv{"Kuvi"}
         ky{"kirghize"}
         la{"latin"}
         lad{"ladino"}
@@ -651,7 +650,6 @@ fr{
         xal{"kalmouk"}
         xh{"xhosa"}
         xmf{"mingrélien"}
-        xnr{"Kangri"}
         xog{"soga"}
         yao{"yao"}
         yap{"yapois"}

@@ -298,7 +298,6 @@ sk{
         kv{"komijčina"}
         kw{"kornčina"}
         kwk{"kwakʼwala"}
-        kxv{"Kuvi"}
         ky{"kirgizština"}
         la{"latinčina"}
         lad{"židovská španielčina"}
@@ -566,7 +565,6 @@ sk{
         wuu{"čínština (wu)"}
         xal{"kalmyčtina"}
         xh{"xhoština"}
-        xnr{"Kangri"}
         xog{"soga"}
         yao{"jao"}
         yap{"japčina"}

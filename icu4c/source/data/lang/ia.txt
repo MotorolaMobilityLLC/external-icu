@@ -222,7 +222,6 @@ ia{
         kv{"komi"}
         kw{"cornico"}
         kwk{"kwakwala"}
-        kxv{"Kuvi"}
         ky{"kirghizo"}
         la{"latino"}
         lad{"ladino"}
@@ -435,7 +434,6 @@ ia{
         wuu{"wu"}
         xal{"calmuco"}
         xh{"xhosa"}
-        xnr{"Kangri"}
         xog{"soga"}
         yav{"yangben"}
         ybb{"yemba"}

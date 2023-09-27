@@ -340,7 +340,6 @@ pl{
         kv{"komi"}
         kw{"kornijski"}
         kwk{"kwakiutl"}
-        kxv{"Kuvi"}
         ky{"kirgiski"}
         la{"łaciński"}
         lad{"ladyński"}
@@ -652,7 +651,6 @@ pl{
         xal{"kałmucki"}
         xh{"khosa"}
         xmf{"megrelski"}
-        xnr{"Kangri"}
         xog{"soga"}
         yao{"yao"}
         yap{"japski"}

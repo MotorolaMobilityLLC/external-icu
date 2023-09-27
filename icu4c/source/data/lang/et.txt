@@ -335,7 +335,6 @@ et{
         kv{"komi"}
         kw{"korni"}
         kwk{"kvakvala"}
-        kxv{"Kuvi"}
         ky{"kirgiisi"}
         la{"ladina"}
         lad{"ladiino"}
@@ -644,7 +643,6 @@ et{
         xal{"kalmõki"}
         xh{"koosa"}
         xmf{"megreli"}
-        xnr{"Kangri"}
         xog{"soga"}
         yao{"jao"}
         yap{"japi"}

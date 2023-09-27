@@ -684,7 +684,6 @@ likelySubtags:table(nofallback){
     kxl{"kxl_Deva_IN"}
     kxm{"kxm_Thai_TH"}
     kxp{"kxp_Arab_PK"}
-    kxv{"kxv_Latn_IN"}
     kxw{"kxw_Latn_ZZ"}
     kxz{"kxz_Latn_ZZ"}
     ky{"ky_Cyrl_KG"}

@@ -277,7 +277,6 @@ yrl{
         kut{"kutenai"}
         kv{"kumi"}
         kw{"kúriniku"}
-        kxv{"Kuvi"}
         ky{"kirigixi"}
         la{"ratĩ"}
         lad{"radinu"}
@@ -527,7 +526,6 @@ yrl{
         wuu{"wurapuki"}
         xal{"kaumiki"}
         xh{"xosa"}
-        xnr{"Kangri"}
         xog{"rusoga"}
         yao{"yau"}
         yap{"yapese"}

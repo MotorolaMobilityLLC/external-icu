@@ -255,7 +255,6 @@ rm{
         kut{"kutenai"}
         kv{"komi"}
         kw{"cornic"}
-        kxv{"Kuvi"}
         ky{"kirghis"}
         la{"latin"}
         lad{"ladino"}
@@ -489,7 +488,6 @@ rm{
         wo{"wolof"}
         xal{"kalmuk"}
         xh{"xhosa"}
-        xnr{"Kangri"}
         xog{"soga"}
         yao{"yao"}
         yap{"yapais"}

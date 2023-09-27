@@ -365,7 +365,6 @@ ar_XB{
         kv{"؜‮Komi‬؜"}
         kw{"؜‮Cornish‬؜"}
         kwk{"؜‮Kwakʼwala‬؜"}
-        kxv{"؜‮Kuvi‬؜"}
         ky{"؜‮Kyrgyz‬؜"}
         la{"؜‮Latin‬؜"}
         lad{"؜‮Ladino‬؜"}
@@ -680,7 +679,6 @@ ar_XB{
         xal{"؜‮Kalmyk‬؜"}
         xh{"؜‮Xhosa‬؜"}
         xmf{"؜‮Mingrelian‬؜"}
-        xnr{"؜‮Kangri‬؜"}
         xog{"؜‮Soga‬؜"}
         yao{"؜‮Yao‬؜"}
         yap{"؜‮Yapese‬؜"}

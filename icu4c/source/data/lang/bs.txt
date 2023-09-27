@@ -289,7 +289,6 @@ bs{
         kv{"komi"}
         kw{"kornski"}
         kwk{"kvakvala"}
-        kxv{"Kuvi"}
         ky{"kirgiški"}
         la{"latinski"}
         lad{"ladino"}
@@ -556,7 +555,6 @@ bs{
         wuu{"Wu kineski"}
         xal{"kalmik"}
         xh{"hosa"}
-        xnr{"Kangri"}
         xog{"soga"}
         yao{"jao"}
         yap{"japeški"}
