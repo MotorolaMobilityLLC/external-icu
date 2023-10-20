@@ -241,6 +241,7 @@ gl{
         kv{"komi"}
         kw{"córnico"}
         kwk{"kwakiutl"}
+        kxv{"Kuvi"}
         ky{"kirguiz"}
         la{"latín"}
         lad{"ladino"}
@@ -459,6 +460,7 @@ gl{
         wuu{"chinés wu"}
         xal{"calmuco"}
         xh{"xhosa"}
+        xnr{"Kangri"}
         xog{"soga"}
         yav{"yangben"}
         ybb{"yemba"}

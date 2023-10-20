@@ -292,6 +292,7 @@ pt{
         kv{"komi"}
         kw{"córnico"}
         kwk{"kwakʼwala"}
+        kxv{"Kuvi"}
         ky{"quirguiz"}
         la{"latim"}
         lad{"ladino"}
@@ -558,6 +559,7 @@ pt{
         wuu{"wu"}
         xal{"kalmyk"}
         xh{"xhosa"}
+        xnr{"Kangri"}
         xog{"lusoga"}
         yao{"yao"}
         yap{"yapese"}

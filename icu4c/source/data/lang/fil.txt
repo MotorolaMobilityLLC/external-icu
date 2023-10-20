@@ -234,6 +234,7 @@ fil{
         kv{"Komi"}
         kw{"Cornish"}
         kwk{"Kwakʼwala"}
+        kxv{"Kuvi"}
         ky{"Kirghiz"}
         la{"Latin"}
         lad{"Ladino"}
@@ -452,6 +453,7 @@ fil{
         wuu{"Wu Chinese"}
         xal{"Kalmyk"}
         xh{"Xhosa"}
+        xnr{"Kangri"}
         xog{"Soga"}
         yav{"Yangben"}
         ybb{"Yemba"}

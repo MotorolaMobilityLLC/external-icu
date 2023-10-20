@@ -318,6 +318,7 @@ ca{
         kv{"komi"}
         kw{"còrnic"}
         kwk{"kwak’wala"}
+        kxv{"Kuvi"}
         ky{"kirguís"}
         la{"llatí"}
         lad{"judeocastellà"}
@@ -607,6 +608,7 @@ ca{
         xal{"calmuc"}
         xh{"xosa"}
         xmf{"mingrelià"}
+        xnr{"Kangri"}
         xog{"soga"}
         yao{"yao"}
         yap{"yapeà"}

@@ -301,6 +301,7 @@ da{
         kv{"komi"}
         kw{"cornisk"}
         kwk{"kwakʼwala"}
+        kxv{"Kuvi"}
         ky{"kirgisisk"}
         la{"latin"}
         lad{"ladino"}
@@ -568,6 +569,7 @@ da{
         wuu{"wu-kinesisk"}
         xal{"kalmyk"}
         xh{"xhosa"}
+        xnr{"Kangri"}
         xog{"soga"}
         yao{"yao"}
         yap{"yapese"}

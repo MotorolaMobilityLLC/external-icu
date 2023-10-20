@@ -328,6 +328,7 @@ to{
         kv{"lea fakakomi"}
         kw{"lea fakakoniuali"}
         kwk{"lea fakakuakuala"}
+        kxv{"Kuvi"}
         ky{"lea fakakīsisi"}
         la{"lea fakalatina"}
         lad{"lea fakalatino"}
@@ -637,6 +638,7 @@ to{
         xal{"lea fakakalimiki"}
         xh{"lea fakatōsa"}
         xmf{"lea fakamingilelia"}
+        xnr{"Kangri"}
         xog{"lea fakasoka"}
         yao{"lea fakaʻiao"}
         yap{"lea fakaʻiapi"}

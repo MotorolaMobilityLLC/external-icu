@@ -226,6 +226,7 @@ sq{
         kv{"komisht"}
         kw{"kornisht"}
         kwk{"kuakualaisht"}
+        kxv{"Kuvi"}
         ky{"kirgizisht"}
         la{"latinisht"}
         lad{"ladinoisht"}
@@ -445,6 +446,7 @@ sq{
         wuu{"kinezishte vu"}
         xal{"kalmikisht"}
         xh{"xhosaisht"}
+        xnr{"Kangri"}
         xog{"sogisht"}
         yav{"jangbenisht"}
         ybb{"jembaisht"}

@@ -271,6 +271,7 @@ fy{
         kut{"Kutenai"}
         kv{"Komi"}
         kw{"Cornish"}
+        kxv{"Kuvi"}
         ky{"Kirgizysk"}
         la{"Latyn"}
         lad{"Ladino"}
@@ -510,6 +511,7 @@ fy{
         wo{"Wolof"}
         xal{"Kalmyk"}
         xh{"Xhosa"}
+        xnr{"Kangri"}
         xog{"Soga"}
         yao{"Yao"}
         yap{"Yapees"}

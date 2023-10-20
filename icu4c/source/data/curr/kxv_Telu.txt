@@ -1,0 +1,85 @@
+﻿// © 2016 and later: Unicode, Inc. and others.
+// License & terms of use: http://www.unicode.org/copyright.html
+// Generated using tools/cldr/cldr-to-icu/build-icu-data.xml
+kxv_Telu{
+    Currencies{
+        BRL{
+            "R$",
+            "బ్రెజిలియన్ రియల్",
+        }
+        CNY{
+            "CN¥",
+            "చైనా దేశ యువాన్",
+        }
+        EUR{
+            "€",
+            "యురొ",
+        }
+        GBP{
+            "£",
+            "బ్రిటిష్ పౌండ్",
+        }
+        INR{
+            "₹",
+            "భారతదేశ రూపాయి",
+        }
+        JPY{
+            "JP¥",
+            "జపాను దేశ యెన్",
+        }
+        RUB{
+            "RUB",
+            "రష్యన్ రూబల్",
+        }
+        USD{
+            "US$",
+            "అమెరికా డాలర్",
+        }
+        XXX{
+            "¤",
+            "తెలియని కరెన్సీ",
+        }
+    }
+    CurrencyPlurals{
+        BRL{
+            one{"బ్రెజిలియన్ రియల్"}
+            other{"బ్రెజిలియన్ రియల్‌లు"}
+        }
+        CNY{
+            one{"చైనా దేశ యువాన్"}
+            other{"చైనా దేశ యువాన్"}
+        }
+        EUR{
+            one{"యురొ"}
+            other{"యురోలు"}
+        }
+        GBP{
+            one{"బ్రిటిష్ పౌండ్"}
+            other{"బ్రిటిష్ పౌండ్‌లు"}
+        }
+        INR{
+            one{"భారతదేశ రూపాయి"}
+            other{"భారతదేశ రూపాయలు"}
+        }
+        JPY{
+            one{"జపాను దేశ యెన్"}
+            other{"జపాను దేశ యెన్"}
+        }
+        RUB{
+            one{"రష్యన్ రూబల్"}
+            other{"రష్యన్ రూబల్‌లు"}
+        }
+        USD{
+            one{"అమెరికా డాలర్"}
+            other{"అమెరికా డాలర్‌లు"}
+        }
+        XXX{
+            one{"తెలియని కరెన్సీ ప్రమాణం"}
+            other{"తెలియని కరెన్సీ"}
+        }
+    }
+    CurrencyUnitPatterns{
+        one{"{0} {1}"}
+        other{"{0} {1}"}
+    }
+}

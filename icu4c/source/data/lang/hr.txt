@@ -302,6 +302,7 @@ hr{
         kv{"komi"}
         kw{"kornski"}
         kwk{"kwakʼwala"}
+        kxv{"Kuvi"}
         ky{"kirgiski"}
         la{"latinski"}
         lad{"ladino"}
@@ -570,6 +571,7 @@ hr{
         wuu{"wu kineski"}
         xal{"kalmyk"}
         xh{"xhosa"}
+        xnr{"Kangri"}
         xog{"soga"}
         yao{"yao"}
         yap{"japski"}

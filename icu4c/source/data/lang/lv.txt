@@ -290,6 +290,7 @@ lv{
         kv{"komiešu"}
         kw{"korniešu"}
         kwk{"kvakvala"}
+        kxv{"Kuvi"}
         ky{"kirgīzu"}
         la{"latīņu"}
         lad{"ladino"}
@@ -555,6 +556,7 @@ lv{
         wuu{"vu ķīniešu"}
         xal{"kalmiku"}
         xh{"khosu"}
+        xnr{"Kangri"}
         xog{"sogu"}
         yao{"jao"}
         yap{"japiešu"}

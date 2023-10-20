@@ -209,6 +209,7 @@ mi{
         kv{"Komi"}
         kw{"Kōnihi"}
         kwk{"Kuakawara"}
+        kxv{"Kuvi"}
         ky{"Kēkete"}
         la{"Rātini"}
         lad{"Ratino"}
@@ -413,6 +414,7 @@ mi{
         wuu{"Hainamana Wū"}
         xal{"Karamiki"}
         xh{"Tōha"}
+        xnr{"Kangri"}
         xog{"Hoka"}
         yav{"Angapene"}
         ybb{"Emapa"}

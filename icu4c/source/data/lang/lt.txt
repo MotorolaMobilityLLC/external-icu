@@ -338,6 +338,7 @@ lt{
         kv{"komi"}
         kw{"kornų"}
         kwk{"kvakvalų"}
+        kxv{"Kuvi"}
         ky{"kirgizų"}
         la{"lotynų"}
         lad{"ladino"}
@@ -649,6 +650,7 @@ lt{
         xal{"kalmukų"}
         xh{"kosų"}
         xmf{"megrelų"}
+        xnr{"Kangri"}
         xog{"sogų"}
         yao{"jao"}
         yap{"japezų"}

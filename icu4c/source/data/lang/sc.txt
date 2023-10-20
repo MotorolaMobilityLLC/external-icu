@@ -221,6 +221,7 @@ sc{
         kv{"komi"}
         kw{"còrnicu"}
         kwk{"kwakʼwala"}
+        kxv{"Kuvi"}
         ky{"chirghisu"}
         la{"latinu"}
         lad{"giudeu-ispagnolu"}
@@ -432,6 +433,7 @@ sc{
         wuu{"wu"}
         xal{"calmucu"}
         xh{"xhosa"}
+        xnr{"Kangri"}
         xog{"soga"}
         yav{"yangben"}
         ybb{"yemba"}

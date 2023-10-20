@@ -1,0 +1,226 @@
+﻿// © 2016 and later: Unicode, Inc. and others.
+// License & terms of use: http://www.unicode.org/copyright.html
+// Generated using tools/cldr/cldr-to-icu/build-icu-data.xml
+kxv{
+    Keys{
+        calendar{"kelenḍr"}
+        cf{"ṭakã pormat"}
+        colAlternate{"cin bagakiili mnhiaari"}
+        colBackwards{"ulṭa baga vesili"}
+        colCaseFirst{"kaja kase/mila kase lẽ"}
+        colCaseLevel{"kase sensitiv baga"}
+        colNormalization{"smani baga"}
+        colNumeric{"nmbrti baga"}
+        colStrength{"bagati bḍayu"}
+        collation{"mila krm"}
+        currency{"ṭakã"}
+        hc{"veḍiti gila (12 vrses 24)"}
+        lb{"daḍi ḍikihin aaḍa"}
+        ms{"laṭini leka"}
+        numbers{"sṅkya"}
+        timezone{"veḍa muṭha"}
+        va{"basati rup"}
+        x{"nijataki kina"}
+    }
+    Languages{
+        af{"aprikaans"}
+        am{"amharic"}
+        ar{"arabic"}
+        ar_001{"punijuga mānānka arabic"}
+        as{"aasamis"}
+        az{"ajerbaijani"}
+        be{"belarusiati"}
+        bg{"bulgeriati"}
+        bn{"bangali"}
+        bo{"tibetī"}
+        brx{"boḍo"}
+        bs{"bajniati"}
+        ca{"keṭelan"}
+        chr{"cerokī"}
+        cs{"cek"}
+        da{"denis"}
+        de{"jerman"}
+        de_AT{"ausṭriati jerman"}
+        de_CH{"svis high jerman"}
+        doi{"ḍogri"}
+        el{"grīk"}
+        en{"ingrajī"}
+        en_AU{"ausṭreliati ingarjī"}
+        en_CA{"kanaḍati ingarjī"}
+        en_GB{"briṭisti ingrajī"}
+        en_US{"amerikati ingrajī"}
+        es{"spenis"}
+        es_419{"laṭin americati spenis"}
+        es_ES{"yuropīyati spenis"}
+        es_MX{"meksikoti spenis"}
+        et{"esṭoniyati"}
+        eu{"bask"}
+        fa{"persiati"}
+        fa_AF{"ḍari"}
+        fi{"pinnis"}
+        fil{"pilipino"}
+        fr{"prenc"}
+        fr_CA{"kanaḍati prenc"}
+        fr_CH{"svis prenc"}
+        gl{"galesiati"}
+        gu{"gujraṭī"}
+        he{"hibru"}
+        hi{"hindi"}
+        hr{"kroesiati"}
+        hu{"hngeriyati"}
+        hy{"aarmeniati"}
+        id{"inḍonesiyati"}
+        is{"aislanḍik"}
+        it{"iṭaliti"}
+        ja{"japanij"}
+        ka{"jorjiati"}
+        kk{"kjaak"}
+        km{"kmer"}
+        kn{"knnaḍa"}
+        ko{"koriati"}
+        kok{"konkanī"}
+        ks{"kasmīrī"}
+        kxv{"kuvi"}
+        ky{"kyrgyj"}
+        lo{"lao"}
+        lt{"lituaniyati"}
+        lv{"laṭviati"}
+        mai{"maitilī"}
+        mk{"mesiḍoniyati"}
+        ml{"malyalam"}
+        mn{"mongoliyati"}
+        mni{"maṇipurī"}
+        mr{"maraṭi"}
+        ms{"malei"}
+        my{"burmij"}
+        nb{"norvejiati būkmal"}
+        ne{"nepaḷī"}
+        nl{"ḍc"}
+        nl_BE{"vlaams"}
+        or{"oḍiaa"}
+        pa{"pnjabī"}
+        pl{"polis"}
+        pt{"portugīj"}
+        pt_BR{"brajilian portugīj"}
+        pt_PT{"yuropīyati portugīj"}
+        ro{"romaniyati"}
+        ro_MD{"molḍaviati"}
+        ru{"rusiyati"}
+        sa{"sanskrit"}
+        sat{"santalī"}
+        sd{"sindi"}
+        si{"sinhali"}
+        sk{"slovak"}
+        sl{"sloveniyati"}
+        sq{"albaniyati"}
+        sr{"sarbiyati"}
+        sv{"sviḍis"}
+        sw{"svahili"}
+        sw_CD{"kongo svahili"}
+        ta{"tamiḷ"}
+        te{"telugu"}
+        th{"tae"}
+        tl{"ṭagalog"}
+        tr{"turkis"}
+        uk{"yukraniyati"}
+        ur{"urdu"}
+        uz{"ujbek"}
+        vi{"vietnaamti"}
+        xnr{"Kangri"}
+        zh{"cainati"}
+        zh_Hans{"sahaj cainati"}
+        zh_Hant{"hirudlu cainati"}
+        zu{"julu"}
+    }
+    Languages%long{
+        zh_Hans{"sahaj manḍarin cainati"}
+        zh_Hant{"hirudlu manḍarin cainati"}
+    }
+    Languages%menu{
+        zh{"cainati, manḍarin"}
+    }
+    Languages%short{
+        az{"ājeri"}
+        en_GB{"juktarajyati ingrajī"}
+        en_US{"juktarasṭrati ingrajī"}
+    }
+    Scripts{
+        Arab{"aarabic"}
+        Beng{"bangalī"}
+        Brah{"brahmi"}
+        Cher{"cerokī"}
+        Cyrl{"sirilik"}
+        Deva{"devnagrī"}
+        Gujr{"gujraṭī"}
+        Guru{"gurmukī"}
+        Hans{"sahaj"}
+        Hant{"hirudlu"}
+        Inds{"sindhu"}
+        Knda{"knnaḍa"}
+        Latn{"laṭin"}
+        Mlym{"malayalam"}
+        Orya{"oḍiaa"}
+        Saur{"saurastra"}
+        Taml{"tamiḷ"}
+        Telu{"telugu"}
+        Zxxx{"raciaahalee"}
+        Zzzz{"puṇāātiakr"}
+    }
+    Scripts%stand-alone{
+        Hans{"sahaj han"}
+        Hant{"hirudlu han"}
+    }
+    Types{
+        calendar{
+            gregorian{"gregoriyan kelenḍr"}
+            indian{"barat jatiya kelenḍr"}
+        }
+        cf{
+            standard{"mānānka takã"}
+        }
+        collation{
+            ducet{"ḍepalt yunikoḍ baga lẽ"}
+            phonebook{"pnbhi baga lẽ"}
+            search{"samani udesya parin"}
+            standard{"mānānka baga lẽ"}
+        }
+        hc{
+            h11{"12 gṇṭati pddti (0 - 11)"}
+            h12{"12 gṇṭati pddti (1-12)"}
+            h23{"24 gṇṭati pddti (0 - 23)"}
+            h24{"24 gṇṭati pddti (1 - 24)"}
+        }
+        ms{
+            metric{"meṭrik pddti"}
+            uksystem{"samrajyti aaṭini map pddti"}
+            ussystem{"aamerikati map pddti"}
+        }
+        numbers{
+            arab{"arabic-bartiya nmbr"}
+            arabext{"nkiaati arabic - bartiya nmbr"}
+            beng{"bngalī nmbr"}
+            deva{"devnagrī nmbr"}
+            gujr{"gujraṭī nmbr"}
+            guru{"gurumukī nmbr"}
+            knda{"knnaḍ nmbr"}
+            latn{"veḍa kuṇpu nmbr"}
+            mlym{"malayalam nmbr"}
+            orya{"oḍiya nmbr"}
+            roman{"roman nmbr"}
+            romanlow{"roman mila kase nmbr"}
+            taml{"hirudulu tamiḷ nmbr"}
+            tamldec{"tamiḷ nmbr"}
+            telu{"telugū nmbr"}
+        }
+    }
+    codePatterns{
+        language{"kata: {0}"}
+        script{"akr: {0}"}
+        territory{"muṭha: {0}"}
+    }
+    localeDisplayPattern{
+        keyTypePattern{"{0}: {1}"}
+        pattern{"{0} ({1})"}
+        separator{"{0}, {1}"}
+    }
+}

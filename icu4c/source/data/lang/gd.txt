@@ -324,6 +324,7 @@ gd{
         kv{"Komi"}
         kw{"Còrnais"}
         kwk{"Kwakʼwala"}
+        kxv{"Kuvi"}
         ky{"Cìorgasais"}
         la{"Laideann"}
         lad{"Ladino"}
@@ -619,6 +620,7 @@ gd{
         wuu{"Wu"}
         xal{"Kalmyk"}
         xh{"Xhosa"}
+        xnr{"Kangri"}
         xog{"Soga"}
         yao{"Yao"}
         yap{"Cànan Yap"}
