@@ -381,6 +381,7 @@ en{
         lil{"Lillooet"}
         liv{"Livonian"}
         lkt{"Lakota"}
+        lld{"Ladin"}
         lmo{"Lombard"}
         ln{"Lingala"}
         lo{"Lao"}

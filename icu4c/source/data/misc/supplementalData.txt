@@ -14981,6 +14981,11 @@ supplementalData:table(nofallback){
                 scripts{"Latn"}
             }
         }
+        lld{
+            primary{
+                scripts{"Latn"}
+            }
+        }
         lmn{
             primary{
                 scripts{"Telu"}

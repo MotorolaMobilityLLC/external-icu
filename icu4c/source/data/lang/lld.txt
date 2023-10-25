@@ -1,0 +1,260 @@
+﻿// © 2016 and later: Unicode, Inc. and others.
+// License & terms of use: http://www.unicode.org/copyright.html
+// Generated using tools/cldr/cldr-to-icu/build-icu-data.xml
+lld{
+    Languages{
+        aa{"afar"}
+        ab{"abcasich"}
+        ae{"avestich"}
+        af{"afrikaans"}
+        ak{"akan"}
+        am{"amarich"}
+        an{"aragonesc"}
+        ar{"arabich"}
+        ar_001{"arabich modern standard"}
+        as{"assamesc"}
+        av{"avarich"}
+        ay{"aymara"}
+        az{"azerbaijan"}
+        ba{"bashkir"}
+        be{"belarus"}
+        bg{"bulgar"}
+        bi{"bislama"}
+        bm{"bambara"}
+        bn{"bengalesc"}
+        bo{"tibetan"}
+        br{"breton"}
+        bs{"bosniach"}
+        ca{"catalan"}
+        ce{"cecen"}
+        ch{"chamorro"}
+        chr{"cherokee"}
+        co{"corsich"}
+        cr{"cree"}
+        cs{"cech"}
+        cu{"slav eclesiastich"}
+        cv{"ciuvascich"}
+        cy{"galesc"}
+        da{"danesc"}
+        de{"todësch"}
+        de_AT{"todësch dl'Austria"}
+        de_CH{"todësch standard dla Svizera"}
+        dv{"divehi"}
+        dz{"dzongkha"}
+        ee{"ewe"}
+        el{"grech"}
+        en{"inglesc"}
+        eo{"esperanto"}
+        es{"spagnol"}
+        et{"eston"}
+        eu{"basch"}
+        fa{"persian"}
+        fa_AF{"dari"}
+        ff{"fula"}
+        fi{"finlandesc"}
+        fil{"filipin"}
+        fj{"fijian"}
+        fo{"faroesc"}
+        fr{"franzesc"}
+        fur{"furlan"}
+        fy{"frison dl vest"}
+        ga{"irlandesc"}
+        gd{"gaelich scozesc"}
+        gl{"galizian"}
+        gn{"guaraní"}
+        gu{"gujarati"}
+        gv{"manx"}
+        ha{"haussa"}
+        he{"ebraich"}
+        hi{"hindi"}
+        ho{"hiri motu"}
+        hr{"croat"}
+        ht{"creolich de Haiti"}
+        hu{"ungaresc"}
+        hy{"armenich"}
+        hz{"herero"}
+        ia{"interlingua"}
+        id{"indonesian"}
+        ie{"interlingue"}
+        ig{"igbo"}
+        ii{"sichuan yi"}
+        ik{"inupiak"}
+        io{"ido"}
+        is{"islandesc"}
+        it{"talian"}
+        iu{"inuktitut"}
+        ja{"iapanesc"}
+        jv{"giavanesc"}
+        ka{"georgian"}
+        kg{"congolesc"}
+        kgp{"kaingang"}
+        ki{"kikuyu"}
+        kj{"kuanyama"}
+        kk{"kazakh"}
+        kl{"groenlandesc"}
+        km{"khmer"}
+        kn{"kannada"}
+        ko{"corean"}
+        kr{"kanuri"}
+        ks{"kashmiri"}
+        ku{"curdich"}
+        kv{"komi"}
+        kw{"cornich"}
+        ky{"kyrgyz"}
+        la{"latin"}
+        lb{"lussemburghesc"}
+        lg{"ganda"}
+        li{"limburghesc"}
+        lld{"ladin"}
+        ln{"lingala"}
+        lo{"lao"}
+        lt{"lituan"}
+        lu{"luba-katanga"}
+        lv{"leton"}
+        mg{"malgasich"}
+        mh{"marshallesc"}
+        mi{"maori"}
+        mk{"macedonich"}
+        ml{"malayalam"}
+        mn{"mongolich"}
+        mr{"marathi"}
+        ms{"malesc"}
+        mt{"maltesc"}
+        my{"birmanich"}
+        na{"nauru"}
+        nb{"norvegesc bokmål"}
+        nd{"ndebele dl nord"}
+        ne{"nepalesc"}
+        ng{"ndonga"}
+        nl{"neerlandesc"}
+        nl_BE{"flamesc"}
+        nn{"norvegesc nynorsk"}
+        no{"norvegesc"}
+        nr{"ndebele dl süd"}
+        nv{"navajan"}
+        ny{"nyanja"}
+        oc{"ocitan"}
+        oj{"ojibwa"}
+        om{"oromo"}
+        or{"odia"}
+        os{"ossetich"}
+        pa{"punjabi"}
+        pi{"pali"}
+        pl{"polach"}
+        ps{"pashto"}
+        pt{"portoghesc"}
+        qu{"quechua"}
+        rm{"rumanc"}
+        rn{"rundi"}
+        ro{"rumen"}
+        ro_MD{"moldavich"}
+        ru{"rus"}
+        rw{"kinyarwanda"}
+        sa{"sanscrit"}
+        sc{"sard"}
+        sd{"sindhi"}
+        se{"sami dl nord"}
+        sg{"sango"}
+        sh{"serbo-croat"}
+        si{"singalesc"}
+        sk{"slovach"}
+        sl{"sloven"}
+        sm{"samoan"}
+        sn{"shona"}
+        so{"somalich"}
+        sq{"albanesc"}
+        sr{"serb"}
+        ss{"swati"}
+        st{"sotho dl süd"}
+        su{"sundanesc"}
+        sv{"svedesc"}
+        sw{"swahili"}
+        sw_CD{"swahili dl Congo"}
+        ta{"tamilich"}
+        te{"telugu"}
+        tg{"tajich"}
+        th{"thailandesc"}
+        ti{"tigrin"}
+        tk{"turcmenich"}
+        tl{"tagalog"}
+        tn{"tswana"}
+        to{"tongaich"}
+        tr{"türch"}
+        ts{"tsonga"}
+        tt{"tatarich"}
+        tw{"twi"}
+        ty{"tahitian"}
+        ug{"uigurich"}
+        uk{"ucrainich"}
+        und{"lingaz nia conesciü"}
+        ur{"urdu"}
+        uz{"uzbech"}
+        ve{"venda"}
+        vi{"vietnamesc"}
+        vo{"volapük"}
+        wa{"valonesc"}
+        wo{"wolof"}
+        xh{"xhosa"}
+        yi{"yiddish"}
+        yo{"yoruba"}
+        yrl{"nheengatu"}
+        za{"zhuang"}
+        zh{"cinesc"}
+        zh_Hans{"cinesc scemplifiché"}
+        zh_Hant{"cinesc tradizional"}
+        zu{"zulu"}
+    }
+    Languages%long{
+        zh_Hans{"cinesc mandarin scemplifiché"}
+        zh_Hant{"cinesc mandarin tradizional"}
+    }
+    Languages%menu{
+        zh{"cinesc (mandarin)"}
+    }
+    Languages%short{
+        en_US{"inglesc (USA)"}
+    }
+    Languages%variant{
+        hi_Latn{"hinglish"}
+    }
+    Scripts{
+        Arab{"arabich"}
+        Cyrl{"zirilich"}
+        Hans{"scemplifiché"}
+        Hant{"tradizional"}
+        Jpan{"iapanesc"}
+        Kore{"corean"}
+        Latn{"latin"}
+        Zxxx{"nia scrit"}
+        Zzzz{"scritöra nia conesciüda"}
+    }
+    Scripts%stand-alone{
+        Hans{"cinesc han scemplifiché"}
+        Hant{"cinesc han tradizional"}
+    }
+    Scripts%variant{
+        Arab{"perso-arabich"}
+    }
+    Types{
+        calendar{
+            gregorian{"Calënder gregorian"}
+            iso8601{"Calënder ISO-8601"}
+        }
+        collation{
+            standard{"Ordinamënt standard"}
+        }
+        numbers{
+            latn{"Zifres ozidentales"}
+        }
+    }
+    codePatterns{
+        language{"Lingaz: {0}"}
+        script{"Scritöra: {0}"}
+        territory{"Area geografica: {0}"}
+    }
+    localeDisplayPattern{
+        keyTypePattern{"{0}: {1}"}
+        pattern{"{0} ({1})"}
+        separator{"{0}, {1}"}
+    }
+}

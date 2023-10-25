@@ -734,6 +734,7 @@ likelySubtags:table(nofallback){
     ljp{"ljp_Latn_ID"}
     lki{"lki_Arab_IR"}
     lkt{"lkt_Latn_US"}
+    lld{"lld_Latn_IT"}
     lle{"lle_Latn_ZZ"}
     lln{"lln_Latn_ZZ"}
     lmn{"lmn_Telu_IN"}

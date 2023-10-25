@@ -111,6 +111,7 @@ plurals:table(nofallback){
         lg{"set7"}
         lij{"set3"}
         lkt{"set0"}
+        lld{"set22"}
         ln{"set5"}
         lo{"set0"}
         lt{"set30"}
