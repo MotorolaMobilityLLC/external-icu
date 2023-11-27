@@ -381,6 +381,7 @@ en_XA{
         lil{"[Ļîļļööéţ one two]"}
         liv{"[Ļîṽöñîåñ one two]"}
         lkt{"[Ļåķöţå one]"}
+        lld{"[Ļåðîñ one]"}
         lmo{"[Ļöɱƀåŕð one two]"}
         ln{"[Ļîñĝåļå one two]"}
         lo{"[Ļåö one]"}

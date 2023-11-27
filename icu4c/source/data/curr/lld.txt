@@ -5,7 +5,7 @@ lld{
     Currencies{
         ADP{
             "ADP",
-            "Peseta dl Andorra",
+            "Peseta d'Andorra",
         }
         AED{
             "AED",
@@ -1239,7 +1239,7 @@ lld{
         }
         EUR{
             one{"euro"}
-            other{"euros"}
+            other{"euro"}
         }
         FJD{
             one{"dolar dles Fiji"}

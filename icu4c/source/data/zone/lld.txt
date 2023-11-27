@@ -403,7 +403,7 @@ lld{
             ec{"Louisville"}
         }
         "America:Lower_Princes"{
-            ec{"Lower Prince’s Quarter"}
+            ec{"Lower Prince's Quarter"}
         }
         "America:Maceio"{
             ec{"Maceio"}
@@ -607,7 +607,7 @@ lld{
             ec{"Davis"}
         }
         "Antarctica:DumontDUrville"{
-            ec{"Dumont d’Urville"}
+            ec{"Ora de Dumont d'Urville"}
         }
         "Antarctica:Macquarie"{
             ec{"Macquarie"}
@@ -1303,7 +1303,7 @@ lld{
         "meta:Alaska"{
             ld{"Ora da d'isté dl'Alaska"}
             lg{"Ora dl'Alaska"}
-            ls{"Ora standard dl’Alaska"}
+            ls{"Ora standard dl'Alaska"}
         }
         "meta:Amazon"{
             ld{"Ora da d'isté dl'Amazonia"}
@@ -1336,9 +1336,9 @@ lld{
             ls{"Ora standard de Apia"}
         }
         "meta:Arabian"{
-            ld{"Ora da d'isté arabica"}
-            lg{"Ora arabica"}
-            ls{"Ora standard arabica"}
+            ld{"Ora da d'isté dl'Arabia"}
+            lg{"Ora dl'Arabia"}
+            ls{"Ora standard dl'Arabia"}
         }
         "meta:Argentina"{
             ld{"Ora da d'isté dl'Argentina"}

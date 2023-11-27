@@ -4,7 +4,7 @@
 lld{
     Languages{
         aa{"afar"}
-        ab{"abcasich"}
+        ab{"abkhasich"}
         ae{"avestich"}
         af{"afrikaans"}
         ak{"akan"}
