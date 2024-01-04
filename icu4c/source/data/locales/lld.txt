@@ -644,18 +644,18 @@ lld{
                         "D",
                     }
                     wide{
-                        "de jená",
-                        "de forá",
-                        "de merz",
-                        "d'aurí",
-                        "de ma",
-                        "de jügn",
-                        "de messé",
-                        "de aost",
-                        "de setëmber",
-                        "d'otober",
-                        "de novëmber",
-                        "de dezëmber",
+                        "jená",
+                        "forá",
+                        "merz",
+                        "aurí",
+                        "ma",
+                        "jügn",
+                        "messé",
+                        "aost",
+                        "setëmber",
+                        "otober",
+                        "novëmber",
+                        "dezëmber",
                     }
                 }
                 stand-alone{
