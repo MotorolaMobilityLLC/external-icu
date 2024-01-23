@@ -780,10 +780,10 @@ lld{
             relativePeriod{"l'edema dl {0}"}
         }
         week-narrow{
-            dn{"edema"}
+            dn{"ede"}
         }
         week-short{
-            dn{"edema"}
+            dn{"ede."}
             relative{
                 "-1"{"edema da denant"}
                 "0"{"chësta edema"}
@@ -794,7 +794,7 @@ lld{
             dn{"edema dl mëis"}
         }
         weekOfMonth-short{
-            dn{"edema/mëis"}
+            dn{"ede. dl mëis"}
         }
         year{
             dn{"ann"}
