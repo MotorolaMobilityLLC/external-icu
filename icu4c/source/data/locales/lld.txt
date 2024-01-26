@@ -743,18 +743,295 @@ lld{
                 "0"{"incö"}
                 "1"{"indoman"}
             }
+            relativeTime{
+                future{
+                    one{"te {0} n de"}
+                    other{"te {0} dis"}
+                }
+                past{
+                    one{"dan da {0} n de"}
+                    other{"dan da {0} dis"}
+                }
+            }
         }
         day-narrow{
             dn{"de"}
+            relativeTime{
+                future{
+                    one{"te {0} n de"}
+                    other{"te {0} dis"}
+                }
+                past{
+                    one{"dan da {0} n de"}
+                    other{"dan da {0} dis"}
+                }
+            }
         }
         day-short{
             dn{"de"}
+            relativeTime{
+                future{
+                    one{"te {0} n de"}
+                    other{"te {0} dis"}
+                }
+                past{
+                    one{"dan da {0} n de"}
+                    other{"dan da {0} dis"}
+                }
+            }
+        }
+        dayOfYear{
+            dn{"de dl ann"}
+        }
+        dayOfYear-short{
+            dn{"de dl ann"}
+        }
+        dayperiod{
+            dn{"AM/PM"}
+        }
+        dayperiod-short{
+            dn{"AM/PM"}
         }
         era{
             dn{"epoca"}
         }
         era-short{
             dn{"epoca"}
+        }
+        fri{
+            relative{
+                "-1"{"l'ultimo vëndres"}
+                "0"{"chësc vëndres"}
+                "1"{"le vëndres che vëgn"}
+            }
+            relativeTime{
+                future{
+                    one{"vëndres te {0} n'edema"}
+                    other{"vëndres te {0} edemes"}
+                }
+                past{
+                    one{"vëndres dan da {0} n'edema"}
+                    other{"vëndres dan da {0} edemes"}
+                }
+            }
+        }
+        fri-narrow{
+            relative{
+                "-1"{"l'ultimo vën"}
+                "0"{"chësc vën"}
+                "1"{"le vën che vëgn"}
+            }
+            relativeTime{
+                future{
+                    one{"vën te {0} n'ede."}
+                    other{"vën te {0} ede."}
+                }
+                past{
+                    one{"vën dan da {0} n'ede."}
+                    other{"vën dan da {0} ede."}
+                }
+            }
+        }
+        fri-short{
+            relative{
+                "-1"{"l'ultimo vën."}
+                "0"{"chësc vën."}
+                "1"{"le vën. che vëgn"}
+            }
+            relativeTime{
+                future{
+                    one{"vën. te {0} n'edema"}
+                    other{"vën. te {0} edemes"}
+                }
+                past{
+                    one{"vën. dan da {0} n'edema"}
+                    other{"vën. dan da {0} edemes"}
+                }
+            }
+        }
+        hour{
+            dn{"ora"}
+            relative{
+                "0"{"chësta ora"}
+            }
+            relativeTime{
+                future{
+                    one{"te {0} n'ora"}
+                    other{"te {0} ores"}
+                }
+                past{
+                    one{"dan da {0} n'ora"}
+                    other{"dan da {0} ores"}
+                }
+            }
+        }
+        hour-narrow{
+            dn{"h"}
+            relativeTime{
+                future{
+                    one{"te {0} h"}
+                    other{"te {0} h"}
+                }
+                past{
+                    one{"dan da {0} h"}
+                    other{"dan da {0} h"}
+                }
+            }
+        }
+        hour-short{
+            dn{"h."}
+            relativeTime{
+                future{
+                    one{"te {0} n'ora"}
+                    other{"te {0} ores"}
+                }
+                past{
+                    one{"dan da {0} n'ora"}
+                    other{"dan da {0} ores"}
+                }
+            }
+        }
+        minute{
+            dn{"menüt"}
+            relative{
+                "0"{"chësc menüt"}
+            }
+            relativeTime{
+                future{
+                    one{"te {0} n menüt"}
+                    other{"te {0} menüc"}
+                }
+                past{
+                    one{"dan da {0} n menüt"}
+                    other{"dan da {0} menüc"}
+                }
+            }
+        }
+        minute-narrow{
+            dn{"min"}
+            relativeTime{
+                future{
+                    one{"te {0} m"}
+                    other{"te {0} m"}
+                }
+                past{
+                    one{"dan da {0} m"}
+                    other{"dan da {0} m"}
+                }
+            }
+        }
+        minute-short{
+            dn{"min."}
+            relativeTime{
+                future{
+                    one{"te {0} n min."}
+                    other{"te {0} min."}
+                }
+                past{
+                    one{"dan da {0} n min."}
+                    other{"dan da {0} min."}
+                }
+            }
+        }
+        mon{
+            relative{
+                "-1"{"l'ultimo lönesc"}
+                "0"{"chësc lönesc"}
+                "1"{"le lönesc che vëgn"}
+            }
+            relativeTime{
+                future{
+                    one{"lönesc te {0} n'edema"}
+                    other{"lönesc te {0} edemes"}
+                }
+                past{
+                    one{"lönesc dan da {0} n'edema"}
+                    other{"lönesc dan da {0} edemes"}
+                }
+            }
+        }
+        mon-narrow{
+            relative{
+                "-1"{"l'ultimo lön"}
+                "0"{"chësc lön"}
+                "1"{"le lön che vëgn"}
+            }
+            relativeTime{
+                future{
+                    one{"lön te {0} n'ede."}
+                    other{"lön te {0} ede."}
+                }
+                past{
+                    one{"lön dan da {0} n'ede."}
+                    other{"lön dan da {0} ede."}
+                }
+            }
+        }
+        mon-short{
+            relative{
+                "-1"{"l'ultimo lön."}
+                "0"{"chësc lön."}
+                "1"{"le lön. che vëgn"}
+            }
+            relativeTime{
+                future{
+                    one{"lön. te {0} n'edema"}
+                    other{"lön. te {0} edemes"}
+                }
+                past{
+                    one{"lön. dan da {0} n'edema"}
+                    other{"lön. dan da {0} edemes"}
+                }
+            }
+        }
+        month{
+            dn{"mëis"}
+            relative{
+                "-1"{"l'ultimo mëis"}
+                "0"{"chësc mëis"}
+                "1"{"le mëis che vëgn"}
+            }
+            relativeTime{
+                future{
+                    one{"te {0} n mëis"}
+                    other{"te {0} mëisc"}
+                }
+                past{
+                    one{"dan da {0} n mëis"}
+                    other{"dan da {0} mëisc"}
+                }
+            }
+        }
+        month-narrow{
+            dn{"mëis"}
+            relativeTime{
+                future{
+                    one{"te {0} n mëis"}
+                    other{"te {0} mëisc"}
+                }
+                past{
+                    one{"dan da {0} n mëis"}
+                    other{"dan da {0} mëisc"}
+                }
+            }
+        }
+        month-short{
+            dn{"mëis"}
+            relative{
+                "-1"{"l'ultimo mëis"}
+                "0"{"chësc mëis"}
+                "1"{"le mëis che vëgn"}
+            }
+            relativeTime{
+                future{
+                    one{"te {0} n mëis"}
+                    other{"te {0} mëisc"}
+                }
+                past{
+                    one{"dan da {0} n mëis"}
+                    other{"dan da {0} mëisc"}
+                }
+            }
         }
         quarter{
             dn{"trimester"}
@@ -763,12 +1040,339 @@ lld{
                 "0"{"chësc trimester"}
                 "1"{"trimester che vëgn"}
             }
+            relativeTime{
+                future{
+                    one{"te {0} n trimester"}
+                    other{"te {0} trimestri"}
+                }
+                past{
+                    one{"dan da {0} n trimester"}
+                    other{"dan da {0} trimestri"}
+                }
+            }
         }
         quarter-narrow{
             dn{"trim."}
+            relativeTime{
+                future{
+                    one{"te {0} n trim."}
+                    other{"te {0} trim."}
+                }
+                past{
+                    one{"dan da {0} n trim."}
+                    other{"dan da {0} trim."}
+                }
+            }
         }
         quarter-short{
             dn{"trim."}
+            relativeTime{
+                future{
+                    one{"te {0} n trim."}
+                    other{"te {0} trim."}
+                }
+                past{
+                    one{"dan da {0} n trim."}
+                    other{"dan da {0} trim."}
+                }
+            }
+        }
+        sat{
+            relative{
+                "-1"{"l'ultima sabeda"}
+                "0"{"chësta sabeda"}
+                "1"{"la sabeda che vëgn"}
+            }
+            relativeTime{
+                future{
+                    one{"sabeda te {0} n'edema"}
+                    other{"sabeda te {0} edemes"}
+                }
+                past{
+                    one{"sabeda dan da {0} n'edema"}
+                    other{"sabeda dan da {0} edemes"}
+                }
+            }
+        }
+        sat-narrow{
+            relative{
+                "-1"{"l'ultima sab"}
+                "0"{"chësta sab"}
+                "1"{"la sab che vëgn"}
+            }
+            relativeTime{
+                future{
+                    one{"sab te {0} n'ede."}
+                    other{"sab te {0} ede."}
+                }
+                past{
+                    one{"sab dan da {0} n'ede."}
+                    other{"sab dan da {0} ede."}
+                }
+            }
+        }
+        sat-short{
+            relative{
+                "-1"{"l'ultima sab."}
+                "0"{"chësta sab."}
+                "1"{"la sab. che vëgn"}
+            }
+            relativeTime{
+                future{
+                    one{"sab. te {0} n'edema"}
+                    other{"sab. te {0} edemes"}
+                }
+                past{
+                    one{"sab. dan da {0} n'edema"}
+                    other{"sab. dan da {0} edemes"}
+                }
+            }
+        }
+        second{
+            dn{"secunt"}
+            relative{
+                "0"{"sëgn"}
+            }
+            relativeTime{
+                future{
+                    one{"te {0} n secunt"}
+                    other{"te {0} secunc"}
+                }
+                past{
+                    one{"dan da {0} n secunt"}
+                    other{"dan da {0} secunc"}
+                }
+            }
+        }
+        second-narrow{
+            dn{"sec"}
+            relativeTime{
+                future{
+                    one{"te {0} s"}
+                    other{"te {0} s"}
+                }
+                past{
+                    one{"dan da {0} s"}
+                    other{"dan da {0} s"}
+                }
+            }
+        }
+        second-short{
+            dn{"sec."}
+            relativeTime{
+                future{
+                    one{"te {0} n sec."}
+                    other{"te {0} sec."}
+                }
+                past{
+                    one{"dan da {0} n sec."}
+                    other{"dan da {0} sec."}
+                }
+            }
+        }
+        sun{
+            relative{
+                "-1"{"l'ultima domënia"}
+                "0"{"chësta domënia"}
+                "1"{"la domënia che vëgn"}
+            }
+            relativeTime{
+                future{
+                    one{"domënia te {0} n'edema"}
+                    other{"domënia te {0} edemes"}
+                }
+                past{
+                    one{"dan da {0} na domënia"}
+                    other{"dan da {0} domënies"}
+                }
+            }
+        }
+        sun-narrow{
+            relative{
+                "-1"{"l'ultima dom."}
+                "0"{"chësta dom."}
+                "1"{"la dom che vëgn"}
+            }
+            relativeTime{
+                future{
+                    one{"dom te {0} n'ede."}
+                    other{"dom te {0} ede."}
+                }
+                past{
+                    one{"dan da {0} na dom"}
+                    other{"dan da {0} dom"}
+                }
+            }
+        }
+        sun-short{
+            relative{
+                "-1"{"l'ultima dom."}
+                "0"{"chësta dom."}
+                "1"{"la dom. che vëgn"}
+            }
+            relativeTime{
+                future{
+                    one{"dom. te {0} n'edema"}
+                    other{"dom. te {0} edemes"}
+                }
+                past{
+                    one{"dan da {0} na dom."}
+                    other{"dan da {0} dom."}
+                }
+            }
+        }
+        thu{
+            relative{
+                "-1"{"l'ultima jöbia"}
+                "0"{"chësta jöbia"}
+                "1"{"la jöbia che vëgn"}
+            }
+            relativeTime{
+                future{
+                    one{"jöbia te {0} n'edema"}
+                    other{"jöbia te {0} edemes"}
+                }
+                past{
+                    one{"jöbia dan da {0} n'edema"}
+                    other{"jöbia dan da {0} edemes"}
+                }
+            }
+        }
+        thu-narrow{
+            relative{
+                "-1"{"l'ultima jöb"}
+                "0"{"chësta jöb"}
+                "1"{"la jöb che vëgn"}
+            }
+            relativeTime{
+                future{
+                    one{"jöb te {0} n'ede."}
+                    other{"jöb te {0} ede."}
+                }
+                past{
+                    one{"jöb dan da {0} n'ede."}
+                    other{"jöb dan da {0} ede."}
+                }
+            }
+        }
+        thu-short{
+            relative{
+                "-1"{"l'ultima jöb."}
+                "0"{"chësta jöb."}
+                "1"{"la jöb. che vëgn"}
+            }
+            relativeTime{
+                future{
+                    one{"jöb. te {0} n'edema"}
+                    other{"jöb. te {0} edemes"}
+                }
+                past{
+                    one{"jöb. dan da {0} n'edema"}
+                    other{"jöb. dan da {0} edemes"}
+                }
+            }
+        }
+        tue{
+            relative{
+                "-1"{"l'ultimo mertesc"}
+                "0"{"chësc mertesc"}
+                "1"{"le mertesc che vëgn"}
+            }
+            relativeTime{
+                future{
+                    one{"mertesc te {0} n'edema"}
+                    other{"mertesc te {0} edemes"}
+                }
+                past{
+                    one{"mertesc dan da {0} n'edema"}
+                    other{"mertesc dan da {0} edemes"}
+                }
+            }
+        }
+        tue-narrow{
+            relative{
+                "-1"{"l'ultimo mert"}
+                "0"{"chësc mert"}
+                "1"{"le mert che vëgn"}
+            }
+            relativeTime{
+                future{
+                    one{"mert. te {0} n'ede."}
+                    other{"mert. te {0} ede."}
+                }
+                past{
+                    one{"mert dan da {0} n'ede."}
+                    other{"mert dan da {0} ede."}
+                }
+            }
+        }
+        tue-short{
+            relative{
+                "-1"{"l'ultimo mert."}
+                "0"{"chësc mert."}
+                "1"{"le mert. che vëgn"}
+            }
+            relativeTime{
+                future{
+                    one{"mert. te {0} n'edema"}
+                    other{"mert. te {0} edemes"}
+                }
+                past{
+                    one{"mert. dan da {0} n'edema"}
+                    other{"mert. dan da {0} edemes"}
+                }
+            }
+        }
+        wed{
+            relative{
+                "-1"{"l'ultimo mercui"}
+                "0"{"chësc mercui"}
+                "1"{"le mercui che vëgn"}
+            }
+            relativeTime{
+                future{
+                    one{"mercui te {0} n'edema"}
+                    other{"mercui te {0} edemes"}
+                }
+                past{
+                    one{"mercui dan da {0} n'edema"}
+                    other{"mercui dan da {0} edemes"}
+                }
+            }
+        }
+        wed-narrow{
+            relative{
+                "-1"{"l'ultimo merc"}
+                "0"{"chësc merc"}
+                "1"{"le merc che vëgn"}
+            }
+            relativeTime{
+                future{
+                    one{"merc te {0} n'ede."}
+                    other{"merc te {0} ede."}
+                }
+                past{
+                    one{"merc dan da {0} n'ede."}
+                    other{"merc dan da {0} ede."}
+                }
+            }
+        }
+        wed-short{
+            relative{
+                "-1"{"l'ultimo merc."}
+                "0"{"chësc merc."}
+                "1"{"le merc. che vëgn"}
+            }
+            relativeTime{
+                future{
+                    one{"merc. te {0} n'edema"}
+                    other{"merc. te {0} edemes"}
+                }
+                past{
+                    one{"merc. dan da {0} n'edema"}
+                    other{"merc. dan da {0} edemes"}
+                }
+            }
         }
         week{
             dn{"edema"}
@@ -778,9 +1382,29 @@ lld{
                 "1"{"l'edema che vëgn"}
             }
             relativePeriod{"l'edema dl {0}"}
+            relativeTime{
+                future{
+                    one{"te {0} n'edema"}
+                    other{"te {0} edemes"}
+                }
+                past{
+                    one{"dan da {0} n'edema"}
+                    other{"dan da {0} edemes"}
+                }
+            }
         }
         week-narrow{
             dn{"ede"}
+            relativeTime{
+                future{
+                    one{"te {0} n'ede."}
+                    other{"te {0} ede."}
+                }
+                past{
+                    one{"dan da {0} n'ede."}
+                    other{"dan da {0} ede."}
+                }
+            }
         }
         week-short{
             dn{"ede."}
@@ -789,12 +1413,34 @@ lld{
                 "0"{"chësta edema"}
                 "1"{"edema che vëgn"}
             }
+            relativeTime{
+                future{
+                    one{"te {0} n'ede."}
+                    other{"te {0} ede."}
+                }
+                past{
+                    one{"dan da {0} n'ede."}
+                    other{"dan da {0} ede."}
+                }
+            }
         }
         weekOfMonth{
             dn{"edema dl mëis"}
         }
         weekOfMonth-short{
             dn{"ede. dl mëis"}
+        }
+        weekday{
+            dn{"de dl'edema"}
+        }
+        weekday-short{
+            dn{"de dl'ede."}
+        }
+        weekdayOfMonth{
+            dn{"de dl mëis"}
+        }
+        weekdayOfMonth-short{
+            dn{"de dl mëis"}
         }
         year{
             dn{"ann"}
@@ -803,9 +1449,29 @@ lld{
                 "0"{"chësc ann"}
                 "1"{"l'ann che vëgn"}
             }
+            relativeTime{
+                future{
+                    one{"te {0} n ann"}
+                    other{"te {0} agn"}
+                }
+                past{
+                    one{"dan da {0} n ann"}
+                    other{"dan da {0} agn"}
+                }
+            }
         }
         year-narrow{
             dn{"ann"}
+            relativeTime{
+                future{
+                    one{"te {0} n ann"}
+                    other{"te {0} agn"}
+                }
+                past{
+                    one{"dan da {0} n ann"}
+                    other{"dan da {0} agn"}
+                }
+            }
         }
         year-short{
             dn{"ann"}
@@ -814,6 +1480,22 @@ lld{
                 "0"{"chësc ann"}
                 "1"{"l'ann che vëgn"}
             }
+            relativeTime{
+                future{
+                    one{"te {0} n ann"}
+                    other{"te {0} agn"}
+                }
+                past{
+                    one{"dan da {0} n ann"}
+                    other{"dan da {0} agn"}
+                }
+            }
+        }
+        zone{
+            dn{"zona orara"}
+        }
+        zone-short{
+            dn{"zona orara"}
         }
     }
     listPattern{
