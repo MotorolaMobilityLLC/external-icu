@@ -285,6 +285,7 @@ az{
         kv{"komi"}
         kw{"korn"}
         kwk{"Kvakvala"}
+        kxv{"Kuvi"}
         ky{"qırğız"}
         la{"latın"}
         lad{"sefard"}
@@ -546,6 +547,7 @@ az{
         wuu{"vu"}
         xal{"kalmık"}
         xh{"xosa"}
+        xnr{"Kangri"}
         xog{"soqa"}
         yao{"yao"}
         yap{"yapiz"}

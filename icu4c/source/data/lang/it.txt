@@ -336,6 +336,7 @@ it{
         kv{"komi"}
         kw{"cornico"}
         kwk{"kwakʼwala"}
+        kxv{"Kuvi"}
         ky{"kirghiso"}
         la{"latino"}
         lad{"giudeo-spagnolo"}
@@ -645,6 +646,7 @@ it{
         xal{"kalmyk"}
         xh{"xhosa"}
         xmf{"mengrelio"}
+        xnr{"Kangri"}
         xog{"soga"}
         yao{"yao (bantu)"}
         yap{"yapese"}

@@ -293,6 +293,7 @@ ro{
         kv{"komi"}
         kw{"cornică"}
         kwk{"kwakʼwala"}
+        kxv{"Kuvi"}
         ky{"kârgâză"}
         la{"latină"}
         lad{"ladino"}
@@ -561,6 +562,7 @@ ro{
         wuu{"chineză wu"}
         xal{"calmucă"}
         xh{"xhosa"}
+        xnr{"Kangri"}
         xog{"soga"}
         yao{"yao"}
         yap{"yapeză"}

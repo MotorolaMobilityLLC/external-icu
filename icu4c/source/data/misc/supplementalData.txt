@@ -15086,6 +15086,11 @@ supplementalData:table(nofallback){
                 scripts{"Latn"}
             }
         }
+        lld{
+            primary{
+                scripts{"Latn"}
+            }
+        }
         lmn{
             primary{
                 scripts{"Telu"}
@@ -18285,6 +18290,12 @@ supplementalData:table(nofallback){
                 "1",
             }
             {
+                "kxv",
+                "hi",
+                "30",
+                "1",
+            }
+            {
                 "ky",
                 "ru",
                 "30",
@@ -18629,6 +18640,12 @@ supplementalData:table(nofallback){
             {
                 "xh",
                 "en",
+                "30",
+                "1",
+            }
+            {
+                "xnr",
+                "hi",
                 "30",
                 "1",
             }

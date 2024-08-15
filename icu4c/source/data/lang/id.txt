@@ -306,6 +306,7 @@ id{
         kv{"Komi"}
         kw{"Kornish"}
         kwk{"Kwakʼwala"}
+        kxv{"Kuvi"}
         ky{"Kirgiz"}
         la{"Latin"}
         lad{"Ladino"}
@@ -584,6 +585,7 @@ id{
         wuu{"Wu Tionghoa"}
         xal{"Kalmuk"}
         xh{"Xhosa"}
+        xnr{"Kangri"}
         xog{"Soga"}
         yao{"Yao"}
         yap{"Yapois"}

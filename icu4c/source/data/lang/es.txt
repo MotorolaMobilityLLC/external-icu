@@ -302,6 +302,7 @@ es{
         kv{"komi"}
         kw{"córnico"}
         kwk{"kwakʼwala"}
+        kxv{"Kuvi"}
         ky{"kirguís"}
         la{"latín"}
         lad{"ladino"}
@@ -571,6 +572,7 @@ es{
         wuu{"chino wu"}
         xal{"kalmyk"}
         xh{"xhosa"}
+        xnr{"Kangri"}
         xog{"soga"}
         yao{"yao"}
         yap{"yapés"}
