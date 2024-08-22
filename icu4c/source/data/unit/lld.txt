@@ -1,0 +1,34 @@
+﻿// © 2016 and later: Unicode, Inc. and others.
+// License & terms of use: http://www.unicode.org/copyright.html
+// Generated using tools/cldr/cldr-to-icu/build-icu-data.xml
+lld{
+    units{
+        coordinate{
+            dnam{"punt cardinal"}
+            east{"{0} ost"}
+            north{"{0} nord"}
+            south{"{0} süd"}
+            west{"{0} vest"}
+        }
+    }
+    unitsNarrow{
+        coordinate{
+            east{"{0}O"}
+            north{"{0}N"}
+            south{"{0}S"}
+            west{"{0}V"}
+        }
+    }
+    unitsShort{
+        compound{
+            per{"{0} / {1}"}
+        }
+        coordinate{
+            dnam{"direziun"}
+            east{"{0} O"}
+            north{"{0} N"}
+            south{"{0} S"}
+            west{"{0} V"}
+        }
+    }
+}
