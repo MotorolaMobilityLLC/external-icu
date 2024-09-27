@@ -312,6 +312,7 @@ ast{
         kut{"kutenai"}
         kv{"komi"}
         kw{"córnicu"}
+        kxv{"Kuvi"}
         ky{"kirguistanín"}
         la{"llatín"}
         lad{"ladino"}
@@ -604,6 +605,7 @@ ast{
         xal{"calmuco"}
         xh{"xhosa"}
         xmf{"mingrelianu"}
+        xnr{"Kangri"}
         xog{"soga"}
         yao{"yao"}
         yap{"yapés"}

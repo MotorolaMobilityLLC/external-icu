@@ -227,6 +227,7 @@ uz{
         kv{"komi"}
         kw{"korn"}
         kwk{"kvakvala"}
+        kxv{"Kuvi"}
         ky{"qirgʻizcha"}
         la{"lotincha"}
         lad{"ladino"}
@@ -443,6 +444,7 @@ uz{
         wuu{"vu xitoy"}
         xal{"qalmoq"}
         xh{"kxosa"}
+        xnr{"Kangri"}
         xog{"soga"}
         yav{"yangben"}
         ybb{"yemba"}

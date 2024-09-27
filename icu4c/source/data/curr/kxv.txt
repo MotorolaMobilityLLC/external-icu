@@ -17,11 +17,11 @@ kxv{
         }
         GBP{
             "£",
-            "briṭis pāunḍ",
+            "briṭis pāunḍ",
         }
         INR{
             "₹",
-            "bārat ti ṭnkā",
+            "bārat ti ṭnkā",
         }
         JPY{
             "JP¥",
@@ -33,14 +33,53 @@ kxv{
         }
         USD{
             "US$",
-            "iūes ḍalār",
+            "iūes ḍalār",
         }
         XXX{
             "¤",
-            "puṇātī lēmbū",
+            "puṇātī lēmbū",
+        }
+    }
+    CurrencyPlurals{
+        BRL{
+            one{"brājil ti riel"}
+            other{"brājil ti riel"}
+        }
+        CNY{
+            one{"cin ti yuān"}
+            other{"cin ti yuān"}
+        }
+        EUR{
+            one{"yuro"}
+            other{"yuro"}
+        }
+        GBP{
+            one{"briṭis pāunḍ"}
+            other{"briṭis pāunḍ"}
+        }
+        INR{
+            one{"bārat ti ṭnkā"}
+            other{"bārat ti ṭnkā"}
+        }
+        JPY{
+            one{"jāpān ti yēn"}
+            other{"jāpān ti yēn"}
+        }
+        RUB{
+            one{"rūs ti rūbel"}
+            other{"rūs ti rūbel"}
+        }
+        USD{
+            one{"iūes ḍalār"}
+            other{"iūes ḍalār"}
+        }
+        XXX{
+            one{"puṇātī lēmbū tān~ ekak"}
+            other{"puṇātī lēmbū"}
         }
     }
     CurrencyUnitPatterns{
+        one{"{0} {1}"}
         other{"{0} {1}"}
     }
 }

@@ -5374,6 +5374,7 @@ metadata:table(nofallback){
         "lg_UG",
         "lij_IT",
         "lkt_US",
+        "lld",
         "lmo_IT",
         "ln_CD",
         "lo_LA",

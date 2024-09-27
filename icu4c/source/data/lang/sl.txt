@@ -290,6 +290,7 @@ sl{
         kv{"komijščina"}
         kw{"kornijščina"}
         kwk{"kvakvala"}
+        kxv{"Kuvi"}
         ky{"kirgiščina"}
         la{"latinščina"}
         lad{"ladinščina"}
@@ -550,6 +551,7 @@ sl{
         wuu{"wu-kitajščina"}
         xal{"kalmiščina"}
         xh{"koščina"}
+        xnr{"Kangri"}
         xog{"sogščina"}
         yao{"jaojščina"}
         yap{"japščina"}

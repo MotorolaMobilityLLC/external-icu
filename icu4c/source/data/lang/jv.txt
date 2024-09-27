@@ -220,6 +220,7 @@ jv{
         kv{"Komi"}
         kw{"Kernowek"}
         kwk{"Kwakʼwala"}
+        kxv{"Kuvi"}
         ky{"Kirgis"}
         la{"Latin"}
         lad{"Ladino"}
@@ -428,6 +429,7 @@ jv{
         wuu{"Tyonghwa Wu"}
         xal{"Kalmik"}
         xh{"Xhosa"}
+        xnr{"Kangri"}
         xog{"Soga"}
         yav{"Yangben"}
         ybb{"Yemba"}

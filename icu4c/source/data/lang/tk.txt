@@ -216,6 +216,7 @@ tk{
         kv{"komi dili"}
         kw{"korn dili"}
         kwk{"kwakwala dili"}
+        kxv{"Kuvi"}
         ky{"gyrgyz dili"}
         la{"latyn dili"}
         lad{"ladino dili"}
@@ -428,6 +429,7 @@ tk{
         wuu{"u hytaý dili"}
         xal{"galmyk dili"}
         xh{"kosa dili"}
+        xnr{"Kangri"}
         xog{"soga dili"}
         yav{"ýangben dili"}
         ybb{"ýemba dili"}

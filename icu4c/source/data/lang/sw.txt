@@ -253,6 +253,7 @@ sw{
         kv{"Kikomi"}
         kw{"Kikorni"}
         kwk{"Kikwakʼwala"}
+        kxv{"Kuvi"}
         ky{"Kikyrgyz"}
         la{"Kilatini"}
         lad{"Kiladino"}
@@ -481,6 +482,7 @@ sw{
         wuu{"Kichina cha Wu"}
         xal{"Kikalmyk"}
         xh{"Kixhosa"}
+        xnr{"Kangri"}
         xog{"Kisoga"}
         yao{"Kiyao"}
         yav{"Kiyangben"}
