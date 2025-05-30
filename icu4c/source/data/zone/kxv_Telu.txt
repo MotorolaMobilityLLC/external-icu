@@ -520,6 +520,9 @@ kxv_Telu{
         "America:Rio_Branco"{
             ec{"రియో బ్రాంకో"}
         }
+        "America:Santa_Isabel"{
+            ec{"శాంటా ఇసబెల్"}
+        }
         "America:Santarem"{
             ec{"సాంటరెమ్"}
         }
@@ -1528,6 +1531,7 @@ kxv_Telu{
         }
         "meta:India"{
             ls{"భారతదేశ ప్రామాణిక సమయం"}
+            ss{"IST"}
         }
         "meta:Indian_Ocean"{
             ls{"హిందూ మహా సముద్ర సమయం"}

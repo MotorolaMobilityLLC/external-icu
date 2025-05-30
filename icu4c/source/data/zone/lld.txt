@@ -1,0 +1,777 @@
+﻿// © 2016 and later: Unicode, Inc. and others.
+// License & terms of use: http://www.unicode.org/copyright.html
+// Generated using tools/cldr/cldr-to-icu/build-icu-data.xml
+lld{
+    zoneStrings{
+        "Africa:Algiers"{
+            ec{"Algier"}
+        }
+        "Africa:Dar_es_Salaam"{
+            ec{"Daressalam"}
+        }
+        "Africa:Khartoum"{
+            ec{"Khartum"}
+        }
+        "Africa:Lome"{
+            ec{"Lomé"}
+        }
+        "Africa:Porto-Novo"{
+            ec{"Porto Novo"}
+        }
+        "Africa:Tripoli"{
+            ec{"Tripolis"}
+        }
+        "America:Bogota"{
+            ec{"Bogotá"}
+        }
+        "America:Jamaica"{
+            ec{"Giamaica"}
+        }
+        "America:Mexico_City"{
+            ec{"Cité dl Messich"}
+        }
+        "America:North_Dakota:Beulah"{
+            ec{"Beulah, Dakota dl Nord"}
+        }
+        "America:North_Dakota:Center"{
+            ec{"Center, Dakota dl Nord"}
+        }
+        "America:North_Dakota:New_Salem"{
+            ec{"New Salem, Dakota dl Nord"}
+        }
+        "America:Santa_Isabel"{
+            ec{"Santa Isabel"}
+        }
+        "America:Yakutat"{
+            ec{"Iakutat"}
+        }
+        "Asia:Baghdad"{
+            ec{"Bagdad"}
+        }
+        "Asia:Calcutta"{
+            ec{"Calcuta"}
+        }
+        "Asia:Chita"{
+            ec{"Cita"}
+        }
+        "Asia:Jakarta"{
+            ec{"Giacarta"}
+        }
+        "Asia:Jerusalem"{
+            ec{"Ierusalem"}
+        }
+        "Asia:Pyongyang"{
+            ec{"Pjöngjang"}
+        }
+        "Asia:Rangoon"{
+            ec{"Rangun"}
+        }
+        "Asia:Riyadh"{
+            ec{"Riad"}
+        }
+        "Asia:Saigon"{
+            ec{"Ho Chi Minh City"}
+        }
+        "Asia:Sakhalin"{
+            ec{"Sachalin"}
+        }
+        "Asia:Samarkand"{
+            ec{"Samarcanda"}
+        }
+        "Asia:Singapore"{
+            ec{"Singapur"}
+        }
+        "Asia:Tbilisi"{
+            ec{"Tiflis"}
+        }
+        "Asia:Tehran"{
+            ec{"Teheran"}
+        }
+        "Asia:Tokyo"{
+            ec{"Tokio"}
+        }
+        "Asia:Ulaanbaatar"{
+            ec{"Ulan Bator"}
+        }
+        "Asia:Yakutsk"{
+            ec{"Iakutsk"}
+        }
+        "Atlantic:Canary"{
+            ec{"Canaries"}
+        }
+        "Atlantic:Faeroe"{
+            ec{"Faroer"}
+        }
+        "Atlantic:Reykjavik"{
+            ec{"Reykjavík"}
+        }
+        "Atlantic:South_Georgia"{
+            ec{"Georgia dl Süd"}
+        }
+        "Etc:UTC"{
+            ls{"Tëmp coordiné universal"}
+        }
+        "Etc:Unknown"{
+            ec{"Cité nia conesciüda"}
+        }
+        "Europe:Athens"{
+            ec{"Atene"}
+        }
+        "Europe:Belgrade"{
+            ec{"Belgrad"}
+        }
+        "Europe:Brussels"{
+            ec{"Brüssel"}
+        }
+        "Europe:Bucharest"{
+            ec{"Bucarest"}
+        }
+        "Europe:Busingen"{
+            ec{"Büsingen"}
+        }
+        "Europe:Dublin"{
+            ld{"Ora da d’isté dl’Irlanda"}
+        }
+        "Europe:Isle_of_Man"{
+            ec{"Isola de Man"}
+        }
+        "Europe:Kiev"{
+            ec{"Kiev"}
+        }
+        "Europe:Lisbon"{
+            ec{"Lisbona"}
+        }
+        "Europe:Ljubljana"{
+            ec{"Lubiana"}
+        }
+        "Europe:London"{
+            ec{"Londra"}
+            ld{"Ora da d’isté britanica"}
+        }
+        "Europe:Luxembourg"{
+            ec{"Lussemburgh"}
+        }
+        "Europe:Moscow"{
+            ec{"Mosca"}
+        }
+        "Europe:Prague"{
+            ec{"Praga"}
+        }
+        "Europe:Rome"{
+            ec{"Roma"}
+        }
+        "Europe:Tirane"{
+            ec{"Tirana"}
+        }
+        "Europe:Vienna"{
+            ec{"Viena"}
+        }
+        "Europe:Warsaw"{
+            ec{"Varsavia"}
+        }
+        "Europe:Zurich"{
+            ec{"Turic"}
+        }
+        "Indian:Comoro"{
+            ec{"Isoles Comores"}
+        }
+        "Pacific:Easter"{
+            ec{"Isola de Pasca"}
+        }
+        "Pacific:Marquesas"{
+            ec{"Isoles Marchejes"}
+        }
+        "meta:Afghanistan"{
+            ls{"Ora dl Afghanistan"}
+        }
+        "meta:Africa_Central"{
+            ls{"Ora dl’Africa zentrala"}
+        }
+        "meta:Africa_Eastern"{
+            ls{"Ora dl’Africa orientala"}
+        }
+        "meta:Africa_Southern"{
+            ls{"Ora dl’Africa dl Süd"}
+        }
+        "meta:Africa_Western"{
+            ld{"Ora da d’isté dl’Africa ozidentala"}
+            lg{"Ora dl’Africa ozidentala"}
+            ls{"Ora standard dl’Africa ozidentala"}
+        }
+        "meta:Alaska"{
+            ld{"Ora da d’isté dl’Alaska"}
+            lg{"Ora dl’Alaska"}
+            ls{"Ora standard dl’Alaska"}
+        }
+        "meta:Amazon"{
+            ld{"Ora da d’isté dl’Amazonia"}
+            lg{"Ora dl’Amazonia"}
+            ls{"Ora standard dl’Amazonia"}
+        }
+        "meta:America_Central"{
+            ld{"Ora da d’isté dl’America dl Nord zentrala"}
+            lg{"Ora dl’America dl Nord zentrala"}
+            ls{"Ora standard dl’America dl Nord zentrala"}
+        }
+        "meta:America_Eastern"{
+            ld{"Ora da d’isté dl’America dl Nord orientala"}
+            lg{"Ora dl’America dl Nord orientala"}
+            ls{"Ora standard dl’America dl Nord orientala"}
+        }
+        "meta:America_Mountain"{
+            ld{"Ora da d’isté dles Rocky Mountains"}
+            lg{"Ora dles Rocky Mountains"}
+            ls{"Ora standard dles Rocky Mountains"}
+        }
+        "meta:America_Pacific"{
+            ld{"Ora da d’isté dl’America dl Nord ozidentala"}
+            lg{"Ora dl’America dl Nord ozidentala"}
+            ls{"Ora standard dl’America dl Nord ozidentala"}
+        }
+        "meta:Apia"{
+            ld{"Ora da d’isté de Apia"}
+            lg{"Ora de Apia"}
+            ls{"Ora standard de Apia"}
+        }
+        "meta:Arabian"{
+            ld{"Ora da d’isté dl’Arabia"}
+            lg{"Ora dl’Arabia"}
+            ls{"Ora standard dl’Arabia"}
+        }
+        "meta:Argentina"{
+            ld{"Ora da d’isté dl’Argentina"}
+            lg{"Ora dl’Argentina"}
+            ls{"Ora standard dl’Argentina"}
+        }
+        "meta:Argentina_Western"{
+            ld{"Ora da d’isté dl’Argentina ozidentala"}
+            lg{"OraOra dl’Argentina ozidentala dl’Argentina ozidentala"}
+            ls{"Ora standard dl’Argentina ozidentala"}
+        }
+        "meta:Armenia"{
+            ld{"Ora da d’isté dl’Armenia"}
+            lg{"Ora dl’Armenia"}
+            ls{"Ora standard dl’Armenia"}
+        }
+        "meta:Atlantic"{
+            ld{"Ora da d’isté dl Atlantich"}
+            lg{"Ora dl Atlantich"}
+            ls{"Ora standard dl Atlantich"}
+        }
+        "meta:Australia_Central"{
+            ld{"Ora da d’isté dl’Australia zentrala"}
+            lg{"Ora dl’Australia zentrala"}
+            ls{"Ora standard dl’Australia zentrala"}
+        }
+        "meta:Australia_CentralWestern"{
+            ld{"Ora da d’isté dl’Australia zënter-ozidentala"}
+            lg{"Ora dl’Australia zënter-ozidentala"}
+            ls{"Ora standard dl’Australia zënter-ozidentala"}
+        }
+        "meta:Australia_Eastern"{
+            ld{"Ora da d’isté dl’Australia orientala"}
+            lg{"Ora dl’Australia orientala"}
+            ls{"Ora standard dl’Australia orientala"}
+        }
+        "meta:Australia_Western"{
+            ld{"Ora da d’isté dl’Australia ozidentala"}
+            lg{"Ora dl’Australia ozidentala"}
+            ls{"Ora standard dl’Australia ozidentala"}
+        }
+        "meta:Azerbaijan"{
+            ld{"Ora da d’isté dl Azerbaijan"}
+            lg{"Ora dl Azerbaijan"}
+            ls{"Ora standard dl Azerbaijan"}
+        }
+        "meta:Azores"{
+            ld{"Ora da d’isté dles Azores"}
+            lg{"Ora dles Azores"}
+            ls{"Ora standard dles Azores"}
+        }
+        "meta:Bangladesh"{
+            ld{"Ora da d’isté dl Bangladesc"}
+            lg{"Ora dl Bangladesc"}
+            ls{"Ora standard dl Bangladesc"}
+        }
+        "meta:Bhutan"{
+            ls{"Ora dl Bhutan"}
+        }
+        "meta:Bolivia"{
+            ls{"Ora dla Bolivia"}
+        }
+        "meta:Brasilia"{
+            ld{"Ora da d’isté de Brasilia"}
+            lg{"Ora de Brasilia"}
+            ls{"Ora standard de Brasilia"}
+        }
+        "meta:Brunei"{
+            ls{"Ora dl Brunei Darussalam"}
+        }
+        "meta:Cape_Verde"{
+            ld{"Ora da d’isté de Capo Verde"}
+            lg{"Ora de Capo Verde"}
+            ls{"Ora standard de Capo Verde"}
+        }
+        "meta:Chamorro"{
+            ls{"Ora standard de Chamorro"}
+        }
+        "meta:Chatham"{
+            ld{"Ora da d’isté dles Isoles Chatham"}
+            lg{"Ora dles Isoles Chatham"}
+            ls{"Ora standard dles Isoles Chatham"}
+        }
+        "meta:Chile"{
+            ld{"Ora da d’isté dl Cile"}
+            lg{"Ora dl Cile"}
+            ls{"Ora standard dl Cile"}
+        }
+        "meta:China"{
+            ld{"Ora da d’isté dla Cina"}
+            lg{"Ora dla Cina"}
+            ls{"Ora standard dla Cina"}
+        }
+        "meta:Christmas"{
+            ls{"Ora dla Isola dl Nadé"}
+        }
+        "meta:Cocos"{
+            ls{"Ora dles Isoles Cocos"}
+        }
+        "meta:Colombia"{
+            ld{"Ora da d’isté dla Colombia"}
+            lg{"Ora dla Colombia"}
+            ls{"Ora standard dla Colombia"}
+        }
+        "meta:Cook"{
+            ld{"Ora da d’isté mesana dles Isoles Cook"}
+            lg{"Ora dles Isoles Cook"}
+            ls{"Ora standard dles Isoles Cook"}
+        }
+        "meta:Cuba"{
+            ld{"Ora da d’isté de Cuba"}
+            lg{"Ora de Cuba"}
+            ls{"Ora standard de Cuba"}
+        }
+        "meta:Davis"{
+            ls{"Ora de Davis"}
+        }
+        "meta:DumontDUrville"{
+            ls{"Ora de Dumont-d’Urville"}
+        }
+        "meta:East_Timor"{
+            ls{"Ora de Timor Ost"}
+        }
+        "meta:Easter"{
+            ld{"Ora da d’isté dl’Isola de Pasca"}
+            lg{"Ora dl’Isola de Pasca"}
+            ls{"Ora standard dl’Isola de Pasca"}
+        }
+        "meta:Ecuador"{
+            ls{"Ora dl Ecuador"}
+        }
+        "meta:Europe_Central"{
+            ld{"Ora da d’isté dl’Europa zentrala"}
+            lg{"Ora dl’Europa zentrala"}
+            ls{"Ora standard dl’Europa zentrala"}
+        }
+        "meta:Europe_Eastern"{
+            ld{"Ora da d’isté dl’Europa orientala"}
+            lg{"Ora dl’Europa orientala"}
+            ls{"Ora standard dl’Europa orientala"}
+        }
+        "meta:Europe_Further_Eastern"{
+            ls{"Ora de Kaliningrad"}
+        }
+        "meta:Europe_Western"{
+            ld{"Ora da d’isté dl’Europa ozidentala"}
+            lg{"Ora dl’Europa ozidentala"}
+            ls{"Ora standard dl’Europa ozidentala"}
+        }
+        "meta:Falkland"{
+            ld{"Ora da d’isté dles Isoles Falkland"}
+            lg{"Ora dles Isoles Falkland"}
+            ls{"Ora standard dles Isoles Falkland"}
+        }
+        "meta:Fiji"{
+            ld{"Ora da d’isté dles Fiji"}
+            lg{"Ora dles Fiji"}
+            ls{"Ora standard dles Fiji"}
+        }
+        "meta:French_Guiana"{
+            ls{"Ora dla Guyana franzeja"}
+        }
+        "meta:French_Southern"{
+            ls{"Ora di Teritori franzesc dl Süd y dl’Antartica"}
+        }
+        "meta:GMT"{
+            ls{"Ora mesana de Greenwich"}
+        }
+        "meta:Galapagos"{
+            ls{"Ora dles Galapagos"}
+        }
+        "meta:Gambier"{
+            ls{"Ora dles Isoles Gambier"}
+        }
+        "meta:Georgia"{
+            ld{"Ora da d’isté dla Georgia"}
+            lg{"Ora dla Georgia"}
+            ls{"Ora standard dla Georgia"}
+        }
+        "meta:Gilbert_Islands"{
+            ls{"Ora dles Isoles Gilbert"}
+        }
+        "meta:Greenland_Eastern"{
+            ld{"Ora da d’isté dla Groenlandia orientala"}
+            lg{"Ora dla Groenlandia orientala"}
+            ls{"Ora standard dla Groenlandia orientala"}
+        }
+        "meta:Greenland_Western"{
+            ld{"Ora da d’isté dla Groenlandia ozidentala"}
+            lg{"Ora dla Groenlandia ozidentala"}
+            ls{"Ora standard dla Groenlandia ozidentala"}
+        }
+        "meta:Gulf"{
+            ls{"Ora standard dl Golf"}
+        }
+        "meta:Guyana"{
+            ls{"Ora dla Guyana"}
+        }
+        "meta:Hawaii_Aleutian"{
+            ld{"Ora da d’isté dles Isoles Hawaii-Aleutines"}
+            lg{"Ora dles Isoles Hawaii-Aleutines"}
+            ls{"Ora standard dles Isoles Hawaii-Aleutines"}
+        }
+        "meta:Hong_Kong"{
+            ld{"Ora da d’isté de Hong Kong"}
+            lg{"Ora de Hong Kong"}
+            ls{"Ora standard de Hong Kong"}
+        }
+        "meta:Hovd"{
+            ld{"Ora da d’isté de Hovd"}
+            lg{"Ora de Hovd"}
+            ls{"Ora standard de Hovd"}
+        }
+        "meta:India"{
+            ls{"Ora standard dl’India"}
+        }
+        "meta:Indian_Ocean"{
+            ls{"Ora dl Ozean indian"}
+        }
+        "meta:Indochina"{
+            ls{"Ora dl’Indocina"}
+        }
+        "meta:Indonesia_Central"{
+            ls{"Ora dl’Indonesia zentrala"}
+        }
+        "meta:Indonesia_Eastern"{
+            ls{"Ora dl’Indonesia orientala"}
+        }
+        "meta:Indonesia_Western"{
+            ls{"Ora dl’Indonesia ozidentala"}
+        }
+        "meta:Iran"{
+            ld{"Ora da d’isté dl Iran"}
+            lg{"Ora dl Iran"}
+            ls{"Ora standard dl Iran"}
+        }
+        "meta:Irkutsk"{
+            ld{"Ora da d’isté de Irkutsk"}
+            lg{"Ora de Irkutsk"}
+            ls{"Ora standard de Irkutsk"}
+        }
+        "meta:Israel"{
+            ld{"Ora da d’isté d’Israel"}
+            lg{"Ora d’Israel"}
+            ls{"Ora standard d’Israel"}
+        }
+        "meta:Japan"{
+            ld{"Ora da d’isté dl Iapan"}
+            lg{"Ora dl Iapan"}
+            ls{"Ora standard dl Iapan"}
+        }
+        "meta:Kazakhstan"{
+            ls{"Ora dl Kazakhstan"}
+        }
+        "meta:Kazakhstan_Eastern"{
+            ls{"Ora dl Kazakhstan oriental"}
+        }
+        "meta:Kazakhstan_Western"{
+            ls{"Ora dl Kazakhstan ozidental"}
+        }
+        "meta:Korea"{
+            ld{"Ora da d’isté dla Corea"}
+            lg{"Ora dla Corea"}
+            ls{"Ora standard dla Corea"}
+        }
+        "meta:Kosrae"{
+            ls{"Ora dl’Isola Kosrae"}
+        }
+        "meta:Krasnoyarsk"{
+            ld{"Ora da d’isté de Krasnoyarsk"}
+            lg{"Ora de Krasnoyarsk"}
+            ls{"Ora standard de Krasnoyarsk"}
+        }
+        "meta:Kyrgystan"{
+            ls{"Ora dl Kyrgystan"}
+        }
+        "meta:Line_Islands"{
+            ls{"Ora dles Isoles Line"}
+        }
+        "meta:Lord_Howe"{
+            ld{"Ora da d’isté de Lord Howe"}
+            lg{"Ora de Lord Howe"}
+            ls{"Ora standard de Lord Howe"}
+        }
+        "meta:Magadan"{
+            ld{"Ora da d’isté de Magadan"}
+            lg{"Ora de Magadan"}
+            ls{"Ora standard de Magadan"}
+        }
+        "meta:Malaysia"{
+            ls{"Ora dla Malesia"}
+        }
+        "meta:Maldives"{
+            ls{"Ora dles Maldives"}
+        }
+        "meta:Marquesas"{
+            ls{"Ora dles Isoles Marchejes"}
+        }
+        "meta:Marshall_Islands"{
+            ls{"Ore dles Isoles Marshall"}
+        }
+        "meta:Mauritius"{
+            ld{"Ora da d’isté de Mauritius"}
+            lg{"Ora de Mauritius"}
+            ls{"Ora standard de Mauritius"}
+        }
+        "meta:Mawson"{
+            ls{"Ora de Mawson"}
+        }
+        "meta:Mexico_Northwest"{
+            ld{"Ora da d'isté dl Messich nord-ozidental"}
+            lg{"Ora dl Messich nord-ozidental"}
+            ls{"Ora standard dl Messich nord-ozidental"}
+        }
+        "meta:Mexico_Pacific"{
+            ld{"Ora da d’isté dla spona pazifica dl Messich"}
+            lg{"Ora dla spona pazifica dl Messich"}
+            ls{"Ora standard dla spona pazifica dl Messich"}
+        }
+        "meta:Mongolia"{
+            ld{"Ora da d’isté de Ulan Bator"}
+            lg{"Ora de Ulan Bator"}
+            ls{"Ora standard de Ulan Bator"}
+        }
+        "meta:Moscow"{
+            ld{"Ora da d’isté de Mosca"}
+            lg{"Ora de Mosca"}
+            ls{"Ora standard de Mosca"}
+        }
+        "meta:Myanmar"{
+            ls{"Ora dl Myanmar"}
+        }
+        "meta:Nauru"{
+            ls{"Ora de Nauru"}
+        }
+        "meta:Nepal"{
+            ls{"Ora dl Nepal"}
+        }
+        "meta:New_Caledonia"{
+            ld{"Ora da d’isté dla Nöia Caledonia"}
+            lg{"Ora dla Nöia Caledonia"}
+            ls{"Ora standard dla Nöia Caledonia"}
+        }
+        "meta:New_Zealand"{
+            ld{"Ora da d’isté dla Nöia Zelanda"}
+            lg{"Ora dla Nöia Zelanda"}
+            ls{"Ora standard dla Nöia Zelanda"}
+        }
+        "meta:Newfoundland"{
+            ld{"Ora da d’isté de Newfoundland"}
+            lg{"Ora de Newfoundland"}
+            ls{"Ora standard de Newfoundland"}
+        }
+        "meta:Niue"{
+            ls{"Ora de Niue"}
+        }
+        "meta:Norfolk"{
+            ld{"Ora da d’isté dl’Isola Norfolk"}
+            lg{"Ora dl’Isola Norfolk"}
+            ls{"Ora standard dl’Isola Norfolk"}
+        }
+        "meta:Noronha"{
+            ld{"Ora da d’isté de Fernando de Noronha"}
+            lg{"Ora de Fernando de Noronha"}
+            ls{"Ora standard de Fernando de Noronha"}
+        }
+        "meta:Novosibirsk"{
+            ld{"Ora da d’isté de Novosibirsk"}
+            lg{"Ora de Novosibirsk"}
+            ls{"Ora standard de Novosibirsk"}
+        }
+        "meta:Omsk"{
+            ld{"Ora da d’isté de Omsk"}
+            lg{"Ora de Omsk"}
+            ls{"Ora standard de Omsk"}
+        }
+        "meta:Pakistan"{
+            ld{"Ora da d’isté dl Pakistan"}
+            lg{"Ora dl Pakistan"}
+            ls{"Ora standard dl Pakistan"}
+        }
+        "meta:Palau"{
+            ls{"Ora de Palau"}
+        }
+        "meta:Papua_New_Guinea"{
+            ls{"Ora dla Papua Nöia Guinea"}
+        }
+        "meta:Paraguay"{
+            ld{"Ora da d’isté dl Paraguay"}
+            lg{"Ora dl Paraguay"}
+            ls{"Ora standard dl Paraguay"}
+        }
+        "meta:Peru"{
+            ld{"Ora da d’isté dl Perú"}
+            lg{"Ora dl Perú"}
+            ls{"Ora standard dl Perú"}
+        }
+        "meta:Philippines"{
+            ld{"Ora da d’isté dles Filipines"}
+            lg{"Ora dles Filipines"}
+            ls{"Ora standard dles Filipines"}
+        }
+        "meta:Phoenix_Islands"{
+            ls{"Ora dles Isoles Phoenix"}
+        }
+        "meta:Pierre_Miquelon"{
+            ld{"Ora da d’isté de St. Pierre y Miquelon"}
+            lg{"Ora de St. Pierre y Miquelon"}
+            ls{"Ora standard de St. Pierre y Miquelon"}
+        }
+        "meta:Pitcairn"{
+            ls{"Ora dles Isoles Pitcairn"}
+        }
+        "meta:Ponape"{
+            ls{"Ora de Ponape"}
+        }
+        "meta:Pyongyang"{
+            ls{"Ora de Pjöngjang"}
+        }
+        "meta:Reunion"{
+            ls{"Ora de Réunion"}
+        }
+        "meta:Rothera"{
+            ls{"Ora de Rothera"}
+        }
+        "meta:Sakhalin"{
+            ld{"Ora da d’isté de Sachalin"}
+            lg{"Ora de Sachalin"}
+            ls{"Ora standard de Sachalin"}
+        }
+        "meta:Samoa"{
+            ld{"Ora da d’isté de Samoa"}
+            lg{"Ora de Samoa"}
+            ls{"Ora standard de Samoa"}
+        }
+        "meta:Seychelles"{
+            ls{"Ora dles Seychelles"}
+        }
+        "meta:Singapore"{
+            ls{"Ora standard de Singapur"}
+        }
+        "meta:Solomon"{
+            ls{"Ora dles Isoles Salomon"}
+        }
+        "meta:South_Georgia"{
+            ls{"Ora dla Georgia dl Süd"}
+        }
+        "meta:Suriname"{
+            ls{"Ora dl Surinam"}
+        }
+        "meta:Syowa"{
+            ls{"Ora de Syowa"}
+        }
+        "meta:Tahiti"{
+            ls{"Ora de Tahiti"}
+        }
+        "meta:Taipei"{
+            ld{"Ora da d’isté de Taipei"}
+            lg{"Ora de Taipei"}
+            ls{"Ora standard de Taipei"}
+        }
+        "meta:Tajikistan"{
+            ls{"Ora dl Tajikistan"}
+        }
+        "meta:Tokelau"{
+            ls{"Ora de Tokelau"}
+        }
+        "meta:Tonga"{
+            ld{"Ora da d’isté de Tonga"}
+            lg{"Ora de Tonga"}
+            ls{"Ora standard de Tonga"}
+        }
+        "meta:Truk"{
+            ls{"Ora dl Chuuk"}
+        }
+        "meta:Turkmenistan"{
+            ld{"Ora da d’isté dl Turkmenistan"}
+            lg{"Ora dl Turkmenistan"}
+            ls{"Ora standard dl Turkmenistan"}
+        }
+        "meta:Tuvalu"{
+            ls{"Ora de Tuvalu"}
+        }
+        "meta:Uruguay"{
+            ld{"Ora da d’isté dl Uruguay"}
+            lg{"Ora dl Uruguay"}
+            ls{"Ora standard dl Uruguay"}
+        }
+        "meta:Uzbekistan"{
+            ld{"Ora da d’isté dl Uzbekistan"}
+            lg{"Ora dl Uzbekistan"}
+            ls{"Ora standard dl Uzbekistan"}
+        }
+        "meta:Vanuatu"{
+            ld{"Ora da d’isté dl Vanuatu"}
+            lg{"Ora dl Vanuatu"}
+            ls{"Ora standard dl Vanuatu"}
+        }
+        "meta:Venezuela"{
+            ls{"Ora dl Venezuela"}
+        }
+        "meta:Vladivostok"{
+            ld{"Ora da d’isté de Vladivostok"}
+            lg{"Ora de Vladivostok"}
+            ls{"Ora standard de Vladivostok"}
+        }
+        "meta:Volgograd"{
+            ld{"Ora da d’isté de Volgograd"}
+            lg{"Ora de Volgograd"}
+            ls{"Ora standard de Volgograd"}
+        }
+        "meta:Vostok"{
+            ls{"Ora de Vostok"}
+        }
+        "meta:Wake"{
+            ls{"Ora dl’Isola de Wake"}
+        }
+        "meta:Wallis"{
+            ls{"Ora de Wallis y Futuna"}
+        }
+        "meta:Yakutsk"{
+            ld{"Ora da d’isté de Iakutsk"}
+            lg{"Ora de Iakutsk"}
+            ls{"Ora standard de Iakutsk"}
+        }
+        "meta:Yekaterinburg"{
+            ld{"Ora da d’isté de Yekaterinburg"}
+            lg{"Ora de Yekaterinburg"}
+            ls{"Ora standard de Yekaterinburg"}
+        }
+        "meta:Yukon"{
+            ls{"Ora dl Yukon"}
+        }
+        regionFormat{"Ora: {0}"}
+        regionFormatDaylight{"Ora da d’isté: {0}"}
+        regionFormatStandard{"Ora standard: {0}"}
+    }
+}

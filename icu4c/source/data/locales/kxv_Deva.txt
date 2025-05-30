@@ -12,8 +12,170 @@ kxv_Deva{
     NumberElements{
         latn{
             patterns{
+                accountingFormat{"¤#,##0.00;(¤#,##0.00)"}
                 currencyFormat{"¤#,##,##0.00"}
                 decimalFormat{"#,##,##0.###"}
+            }
+            patternsLong{
+                decimalFormat{
+                    1000{
+                        one{"0 हज़ार"}
+                        other{"0 हज़ार"}
+                    }
+                    10000{
+                        one{"00 हज़ार"}
+                        other{"00 हज़ार"}
+                    }
+                    100000{
+                        one{"000 हज़ार"}
+                        other{"000 हज़ार"}
+                    }
+                    1000000{
+                        one{"0 मिलिअन"}
+                        other{"0 मिलिअन"}
+                    }
+                    10000000{
+                        one{"00 मिलिअन"}
+                        other{"00 मिलिअन"}
+                    }
+                    100000000{
+                        one{"000 मिलिअन"}
+                        other{"000 मिलिअन"}
+                    }
+                    1000000000{
+                        one{"0 बिलियॉन"}
+                        other{"0 बिलियॉन"}
+                    }
+                    10000000000{
+                        one{"00 बिलियॉन"}
+                        other{"00 बिलियॉन"}
+                    }
+                    100000000000{
+                        one{"000 बिलियॉन"}
+                        other{"000 बिलियॉन"}
+                    }
+                    1000000000000{
+                        one{"0 ट्रिलियॉन"}
+                        other{"0 ट्रिलियॉन"}
+                    }
+                    10000000000000{
+                        one{"00 ट्रिलियॉन"}
+                        other{"00 ट्रिलियॉन"}
+                    }
+                    100000000000000{
+                        one{"000 ट्रिलियॉन"}
+                        other{"000 ट्रिलियॉन"}
+                    }
+                }
+            }
+            patternsShort{
+                currencyFormat{
+                    1000{
+                        one{"¤0 ह"}
+                        other{"¤0 ह"}
+                    }
+                    10000{
+                        one{"¤00 ह"}
+                        other{"¤00 ह"}
+                    }
+                    100000{
+                        one{"¤000 ह"}
+                        other{"¤000 ह"}
+                    }
+                    1000000{
+                        one{"¤0 मि"}
+                        other{"¤0मि"}
+                    }
+                    10000000{
+                        one{"¤00मि"}
+                        other{"¤00मि"}
+                    }
+                    100000000{
+                        one{"¤000मि"}
+                        other{"¤000मि"}
+                    }
+                    1000000000{
+                        one{"¤0बि"}
+                        other{"¤0बि"}
+                    }
+                    10000000000{
+                        one{"¤00बि"}
+                        other{"¤00बि"}
+                    }
+                    100000000000{
+                        one{"¤000बि"}
+                        other{"¤000बि"}
+                    }
+                    1000000000000{
+                        one{"¤0ट्रि"}
+                        other{"¤0ट्रि"}
+                    }
+                    10000000000000{
+                        one{"¤00ट्रि"}
+                        other{"¤00ट्रि"}
+                    }
+                    100000000000000{
+                        one{"¤000ट्रि"}
+                        other{"¤000ट्रि"}
+                    }
+                }
+                decimalFormat{
+                    1000{
+                        one{"0 ह"}
+                        other{"0 ह"}
+                    }
+                    10000{
+                        one{"00 ह"}
+                        other{"00 ह"}
+                    }
+                    100000{
+                        one{"000 ह"}
+                        other{"000 ह"}
+                    }
+                    1000000{
+                        one{"0मि"}
+                        other{"0मि"}
+                    }
+                    10000000{
+                        one{"00मि"}
+                        other{"00मि"}
+                    }
+                    100000000{
+                        one{"000मि"}
+                        other{"000मि"}
+                    }
+                    1000000000{
+                        one{"0बि"}
+                        other{"0बि"}
+                    }
+                    10000000000{
+                        one{"00बि"}
+                        other{"00बि"}
+                    }
+                    100000000000{
+                        one{"000बि"}
+                        other{"000बि"}
+                    }
+                    1000000000000{
+                        one{"0ट्रि"}
+                        other{"0ट्रि"}
+                    }
+                    10000000000000{
+                        one{"00ट्रि"}
+                        other{"00ट्रि"}
+                    }
+                    100000000000000{
+                        one{"000ट्रि"}
+                        other{"000ट्रि"}
+                    }
+                }
+            }
+            symbols{
+                exponential{"E"}
+                infinity{"∞"}
+                nan{"NaN"}
+                perMille{"‰"}
+                superscriptingExponent{"×"}
             }
         }
         native{"deva"}
@@ -34,6 +196,16 @@ kxv_Deva{
                 "{1} आँ {0}",
                 "{1}, {0}",
                 "{1}, {0}",
+            }
+            DateTimeSkeletons{
+                "ahmmsszzzz",
+                "ahmmssz",
+                "ahmmss",
+                "ahmm",
+                "GyMMMMEEEEd",
+                "GyMMMMd",
+                "GyMMMd",
+                "GyMd",
             }
             availableFormats{
                 Bh{"B h"}
@@ -164,7 +336,7 @@ kxv_Deva{
                 "yMMMMEEEEd",
                 "yMMMMd",
                 "yMMMd",
-                "yMMdd",
+                "yyMd",
             }
             availableFormats{
                 Bh{"B h"}
@@ -180,6 +352,7 @@ kxv_Deva{
                 MEd{"E, d/M"}
                 MMMEd{"E, d MMM"}
                 MMMMW{
+                    one{"MMMM ताँ वारा W"}
                     other{"MMMM ताँ वारा W"}
                 }
                 MMMMd{"d MMMM"}
@@ -250,13 +423,46 @@ kxv_Deva{
                 }
             }
             dayPeriod{
+                format{
+                    abbreviated{
+                        afternoon1{"मादिनि मेदाणा"}
+                        evening1{"मेल् अँ"}
+                        midnight{"मादिनि ला आँ"}
+                        morning1{"लाआसि"}
+                        night1{"ला आँ"}
+                    }
+                    narrow{
+                        afternoon1{"मादिनि मेदाणा"}
+                        evening1{"मेल्-अँ"}
+                        midnight{"मा"}
+                        morning1{"लाआसि"}
+                        night1{"ला-आँ"}
+                    }
+                    wide{
+                        afternoon1{"मादिनि मेदाणा"}
+                        evening1{"मेल्-अँ"}
+                        midnight{"मादिनि ला आँ"}
+                        morning1{"लाआसि"}
+                        night1{"ला-आँ"}
+                    }
+                }
                 stand-alone{
                     abbreviated{
+                        afternoon1{"मादि मेदाणा"}
                         am{"ए एम"}
+                        evening1{"मेल्-अँ"}
+                        midnight{"मादिनि ला आँ"}
+                        morning1{"लाआसि"}
+                        night1{"ला-आँ"}
                         pm{"पी एम"}
                     }
                     wide{
+                        afternoon1{"मादि मेदाणा"}
                         am{"ए एम"}
+                        evening1{"मेल्-अँ"}
+                        midnight{"मादिनि ला आँ"}
+                        morning1{"लाआसि"}
+                        night1{"ला-आँ"}
                         pm{"पी एम"}
                     }
                 }

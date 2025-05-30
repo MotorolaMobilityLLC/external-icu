@@ -6,12 +6,22 @@ kxv_Orya{
     Keys{
         calendar{"କେଲେଣ୍ଡର"}
         cf{"ଟାକାଁ ପରମାଟ"}
+        colAlternate{"ଚିନ ବାଗାକିଇଲି ମନହିାଆରି"}
+        colBackwards{"ଉଲ୍‍ଟା ବାଗା ୱେସିଲି"}
+        colCaseFirst{"କାଜା କେସ/ମିଲା କେସ ଲେଁ"}
+        colCaseLevel{"କେସ୍ ସେନ୍ସଟିବ୍ ବାଗା"}
+        colNormalization{"ସମାନି ବାଗା"}
+        colNumeric{"ନମ୍ବରତି ବାଗା ବାଗା"}
+        colStrength{"ବାଗାତା ବ୍ଡାୟୁ"}
         collation{"ମିଲା କ୍ରମ"}
         currency{"ଟାକାଁ"}
         hc{"ୱେଡ଼ାତି ଗିଲା (୧୨ ଅଡ଼େ ୨୪)"}
         lb{"ଦାଡ଼ି ଡିକିହିନ ଆଡା"}
         ms{"ଲାଚିନି ଲେକା"}
         numbers{"ସଂକ୍ୟା"}
+        timezone{"ୱେଡ଼ା ମୁଟ୍‍ହା"}
+        va{"ବାସା ତି ରୁପ"}
+        x{"ନିଜତାକି- କିନା"}
     }
     Languages{
         af{"ଆପ୍ରୀକାନ୍‍ସ"}
@@ -111,11 +121,13 @@ kxv_Orya{
         ta{"ତାମିଲ୍"}
         te{"ତେଲୁଗୁ"}
         th{"ତାଇ"}
+        tl{"ଟାଗ୍‍ଲଗ୍"}
         tr{"ତୁର୍କିସ୍"}
         uk{"ୟୁକ୍ରାନିଆତି"}
         ur{"ଉର୍ଦୁ"}
         uz{"ଉଜବେକ୍"}
         vi{"ୱିଏତନାମ ତି"}
+        xnr{"Kangri"}
         zh{"ଚାଇନା ତି"}
         zh_Hans{"ସହଜ ଚୀନ"}
         zh_Hant{"ହିରୁଦଲୁ ଚାଇନିଜ୍‌"}
@@ -144,6 +156,7 @@ kxv_Orya{
         Guru{"ଗୁରମୁକୀ"}
         Hans{"ସହଜ"}
         Hant{"ହିରୁଦଲୁ"}
+        Inds{"ସିନ୍ଦୁ"}
         Knda{"କନ୍ନଡ଼"}
         Latn{"ଲାଟିନ୍"}
         Mlym{"ମାଲାୟଲମ୍"}
@@ -151,6 +164,8 @@ kxv_Orya{
         Saur{"ସଉରାଷ୍ଟ୍ର"}
         Taml{"ତାମିଲ୍"}
         Telu{"ତେଲୁଗୁ"}
+        Zxxx{"ରାଚି ଆହା-ଲେଏ (ଲେକା ଆହା-ଲେଏ)"}
+        Zzzz{"ପୁଣ୍-ଆ:ତି ଅକର"}
     }
     Scripts%stand-alone{
         Hans{"ସହଜ ହାନ"}
@@ -203,5 +218,8 @@ kxv_Orya{
         language{"କାତା: {0}"}
         script{"ଅକର: {0}"}
         territory{"ମୁଟ୍ହା: {0}"}
+    }
+    localeDisplayPattern{
+        keyTypePattern{"{0}: {1}"}
     }
 }

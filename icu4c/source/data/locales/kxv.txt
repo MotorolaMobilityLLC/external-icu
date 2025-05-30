@@ -2,8 +2,14 @@
 // License & terms of use: http://www.unicode.org/copyright.html
 // Generated using tools/cldr/cldr-to-icu/build-icu-data.xml
 kxv{
-    ExemplarCharacters{"[aā {aa}{āā} b c dḍ eē g h iī j k lḷ m nñṅṇ oō p rṛ s tṭ uū v y]"}
-    ExemplarCharactersPunctuation{"[\\- ‐‑ – — , ; \\: ! ? . … '‘’ \u0022“” ( ) \\[ \\] § @ * / \\& # † ‡ ′ ″]"}
+    ExemplarCharacters{
+        "[a ā {aa} {āā} i ī u ū e ē o ō k g ṅ c j ñ ṭ ḍ ṇ t d n p b m r ḷ v s h y l ṛ"
+        "]"
+    }
+    ExemplarCharactersPunctuation{
+        "[\\- ‐ ‑ – — , ; \\: ! ? . … ' ‘ ’ \u0022 “ ” ( ) \\[ \\] § @ * / \\& # † ‡ "
+        "′ ″]"
+    }
     NumberElements{
         latn{
             patterns{
@@ -15,39 +21,51 @@ kxv{
             patternsLong{
                 decimalFormat{
                     1000{
+                        one{"0 hjar"}
                         other{"0 hjar"}
                     }
                     10000{
+                        one{"00 hjar"}
                         other{"00 hjar"}
                     }
                     100000{
+                        one{"000 hjar"}
                         other{"000 hjar"}
                     }
                     1000000{
+                        one{"0 million"}
                         other{"0 million"}
                     }
                     10000000{
+                        one{"00 million"}
                         other{"00 million"}
                     }
                     100000000{
+                        one{"000 million"}
                         other{"000 million"}
                     }
                     1000000000{
+                        one{"0 billion"}
                         other{"0 billion"}
                     }
                     10000000000{
+                        one{"00 billion"}
                         other{"00 billion"}
                     }
                     100000000000{
+                        one{"000 billion"}
                         other{"000 billion"}
                     }
                     1000000000000{
+                        one{"0 trillion"}
                         other{"0 trillion"}
                     }
                     10000000000000{
+                        one{"00 trillion"}
                         other{"00 trillion"}
                     }
                     100000000000000{
+                        one{"000 trillion"}
                         other{"000 trillion"}
                     }
                 }
@@ -55,78 +73,102 @@ kxv{
             patternsShort{
                 currencyFormat{
                     1000{
+                        one{"¤0h"}
                         other{"¤0h"}
                     }
                     10000{
+                        one{"¤00h"}
                         other{"¤00h"}
                     }
                     100000{
+                        one{"¤000h"}
                         other{"¤000h"}
                     }
                     1000000{
+                        one{"¤0mi"}
                         other{"¤0mi"}
                     }
                     10000000{
+                        one{"¤00mi"}
                         other{"¤00mi"}
                     }
                     100000000{
+                        one{"¤000mi"}
                         other{"¤000mi"}
                     }
                     1000000000{
+                        one{"¤0bi"}
                         other{"¤0bi"}
                     }
                     10000000000{
+                        one{"¤00bi"}
                         other{"¤00bi"}
                     }
                     100000000000{
+                        one{"¤000bi"}
                         other{"¤000bi"}
                     }
                     1000000000000{
+                        one{"¤0tri"}
                         other{"¤0tri"}
                     }
                     10000000000000{
+                        one{"¤00tri"}
                         other{"¤00tri"}
                     }
                     100000000000000{
+                        one{"¤000tri"}
                         other{"¤000tri"}
                     }
                 }
                 decimalFormat{
                     1000{
-                        other{"0 h"}
+                        one{"0 h"}
+                        other{"0 h"}
                     }
                     10000{
-                        other{"00 h"}
+                        one{"00 h"}
+                        other{"00 h"}
                     }
                     100000{
-                        other{"000 h"}
+                        one{"000 h"}
+                        other{"000 h"}
                     }
                     1000000{
-                        other{"0 mi"}
+                        one{"0 mi"}
+                        other{"0 mi"}
                     }
                     10000000{
-                        other{"00 mi"}
+                        one{"00 mi"}
+                        other{"00 mi"}
                     }
                     100000000{
-                        other{"000 mi"}
+                        one{"000 mi"}
+                        other{"000 mi"}
                     }
                     1000000000{
-                        other{"0 bi"}
+                        one{"0 bi"}
+                        other{"0 bi"}
                     }
                     10000000000{
-                        other{"00 bi"}
+                        one{"00 bi"}
+                        other{"00 bi"}
                     }
                     100000000000{
-                        other{"000 bi"}
+                        one{"000 bi"}
+                        other{"000 bi"}
                     }
                     1000000000000{
-                        other{"0 tri"}
+                        one{"0 tri"}
+                        other{"0 tri"}
                     }
                     10000000000000{
-                        other{"00 tri"}
+                        one{"00 tri"}
+                        other{"00 tri"}
                     }
                     100000000000000{
-                        other{"000 tri"}
+                        one{"000 tri"}
+                        other{"000 tri"}
                     }
                 }
             }
@@ -135,10 +177,10 @@ kxv{
     calendar{
         generic{
             DateTimePatterns{
-                "h:mm:ss a zzzz",
-                "h:mm:ss a z",
-                "h:mm:ss a",
-                "h:mm a",
+                "h:mm:ss a zzzz",
+                "h:mm:ss a z",
+                "h:mm:ss a",
+                "h:mm a",
                 "EEEE, MMMM d, y G",
                 "G d MMMM y",
                 "G d MMM y",
@@ -154,6 +196,16 @@ kxv{
                 "{1} 'aa'~ {0}",
                 "{1}, {0}",
                 "{1}, {0}",
+            }
+            DateTimeSkeletons{
+                "ahmmsszzzz",
+                "ahmmssz",
+                "ahmmss",
+                "ahmm",
+                "GyMMMMEEEEd",
+                "GyMMMMd",
+                "GyMMMd",
+                "GyMd",
             }
             availableFormats{
                 Bh{"B h"}
@@ -258,10 +310,10 @@ kxv{
                 "p",
             }
             DateTimePatterns{
-                "h:mm:ss a zzzz",
-                "h:mm:ss a z",
-                "h:mm:ss a",
-                "h:mm a",
+                "h:mm:ss a zzzz",
+                "h:mm:ss a z",
+                "h:mm:ss a",
+                "h:mm a",
                 "EEEE, d MMMM y",
                 "d MMMM y",
                 "d MMM y",
@@ -277,6 +329,16 @@ kxv{
                 "{1} 'aã' {0}",
                 "{1}, {0}",
                 "{1}, {0}",
+            }
+            DateTimeSkeletons{
+                "ahmmsszzzz",
+                "ahmmssz",
+                "ahmmss",
+                "ahmm",
+                "yMMMMEEEEd",
+                "yMMMMd",
+                "yMMMd",
+                "yyMd",
             }
             availableFormats{
                 Bh{"B h"}
@@ -336,7 +398,7 @@ kxv{
                     wide{
                         "aadi vara",
                         "smbara",
-                        "mangaḍa",
+                        "mangaḍa",
                         "pudara",
                         "laki vara",
                         "sukru vara",
@@ -356,10 +418,49 @@ kxv{
                 }
             }
             dayPeriod{
+                format{
+                    abbreviated{
+                        afternoon1{"madini medaṇa"}
+                        evening1{"milã"}
+                        midnight{"madini la aã"}
+                        morning1{"laaasi"}
+                        night1{"la aã"}
+                    }
+                    narrow{
+                        afternoon1{"madini medaṇa"}
+                        evening1{"milã"}
+                        midnight{"ma"}
+                        morning1{"laaasi"}
+                        night1{"la aã"}
+                    }
+                    wide{
+                        afternoon1{"madini medaṇa"}
+                        evening1{"milã"}
+                        midnight{"madini la aã"}
+                        morning1{"laaasi"}
+                        night1{"la aã"}
+                    }
+                }
                 stand-alone{
+                    abbreviated{
+                        afternoon1{"madini medaṇa"}
+                        am{"am"}
+                        evening1{"milã"}
+                        midnight{"madini la aã"}
+                        morning1{"laaasi"}
+                        night1{"la aã"}
+                        pm{"pm"}
+                    }
                     narrow{
                         am{"a"}
                         pm{"p"}
+                    }
+                    wide{
+                        afternoon1{"madini medaṇa"}
+                        evening1{"milã"}
+                        midnight{"madini la aã"}
+                        morning1{"laaasi"}
+                        night1{"la aã"}
                     }
                 }
             }
@@ -373,8 +474,8 @@ kxv{
                     "ce",
                 }
                 wide{
-                    "krisṭ purb nki",
-                    "krisṭabd",
+                    "krisṭ purb nki",
+                    "krisṭabd",
                 }
                 wide%variant{
                     "neeti nki jug",
@@ -445,9 +546,9 @@ kxv{
                         "pagu",
                         "hire",
                         "bese",
-                        "jaṭṭa",
-                        "aasaḍi",
-                        "srabĩ",
+                        "jaṭṭa",
+                        "aasaḍi",
+                        "srabĩ",
                         "bado",
                         "dasara",
                         "divi",
@@ -459,9 +560,9 @@ kxv{
                         "pagu lenju",
                         "hire lenju",
                         "bese lenju",
-                        "jaṭṭa lenju",
-                        "aasaḍi lenju",
-                        "srabĩ lenju",
+                        "jaṭṭa lenju",
+                        "aasaḍi lenju",
+                        "srabĩ lenju",
                         "bado lenju",
                         "dasara lenju",
                         "divi lenju",
@@ -525,7 +626,7 @@ kxv{
             dn{"be"}
         }
         minute{
-            dn{"miniṭ"}
+            dn{"miniṭ"}
         }
         minute-short{
             dn{"min."}
@@ -537,10 +638,13 @@ kxv{
             dn{"le"}
         }
         quarter{
-            dn{"kuarṭer"}
+            dn{"kuarṭer"}
+        }
+        quarter-short{
+            dn{"kuarṭer"}
         }
         second{
-            dn{"sekenḍ"}
+            dn{"sekenḍ"}
         }
         second-short{
             dn{"sek."}
@@ -561,7 +665,7 @@ kxv{
             dn{"ba."}
         }
         zone{
-            dn{"belā muṭha"}
+            dn{"belā muṭha"}
         }
     }
     listPattern{
@@ -587,6 +691,6 @@ kxv{
     measurementSystemNames{
         UK{"yuke"}
         US{"yues"}
-        metric{"meṭric"}
+        metric{"meṭric"}
     }
 }

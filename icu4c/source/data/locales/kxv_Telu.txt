@@ -12,8 +12,171 @@ kxv_Telu{
     NumberElements{
         latn{
             patterns{
+                accountingFormat{"¤#,##0.00;(¤#,##0.00)"}
                 currencyFormat{"¤#,##,##0.00"}
                 decimalFormat{"#,##,##0.###"}
+            }
+            patternsLong{
+                decimalFormat{
+                    1000{
+                        one{"0 వేయి"}
+                        other{"0 వేలు"}
+                    }
+                    10000{
+                        one{"00 వేలు"}
+                        other{"00 వేలు"}
+                    }
+                    100000{
+                        one{"000 వేలు"}
+                        other{"000 వేలు"}
+                    }
+                    1000000{
+                        one{"0 మిలియన్"}
+                        other{"0 మిలియన్లు"}
+                    }
+                    10000000{
+                        one{"00 మిలియన్లు"}
+                        other{"00 మిలియన్లు"}
+                    }
+                    100000000{
+                        one{"000 మిలియన్లు"}
+                        other{"000 మిలియన్లు"}
+                    }
+                    1000000000{
+                        one{"0 బిలియన్"}
+                        other{"0 బిలియన్లు"}
+                    }
+                    10000000000{
+                        one{"00 బిలియన్లు"}
+                        other{"00 బిలియన్లు"}
+                    }
+                    100000000000{
+                        one{"000 బిలియన్లు"}
+                        other{"000 బిలియన్లు"}
+                    }
+                    1000000000000{
+                        one{"0 ట్రిలియన్"}
+                        other{"0 ట్రిలియన్లు"}
+                    }
+                    10000000000000{
+                        one{"00 ట్రిలియన్లు"}
+                        other{"00 ట్రిలియన్లు"}
+                    }
+                    100000000000000{
+                        one{"000 ట్రిలియన్లు"}
+                        other{"000 ట్రిలియన్లు"}
+                    }
+                }
+            }
+            patternsShort{
+                currencyFormat{
+                    1000{
+                        one{"¤0వే"}
+                        other{"¤0వే"}
+                    }
+                    10000{
+                        one{"¤00వే"}
+                        other{"¤00వే"}
+                    }
+                    100000{
+                        one{"¤000వే"}
+                        other{"¤000వే"}
+                    }
+                    1000000{
+                        one{"¤0మి"}
+                        other{"¤0మి"}
+                    }
+                    10000000{
+                        one{"¤00మి"}
+                        other{"¤00మి"}
+                    }
+                    100000000{
+                        one{"¤000మి"}
+                        other{"¤000మి"}
+                    }
+                    1000000000{
+                        one{"¤0బి"}
+                        other{"¤0బి"}
+                    }
+                    10000000000{
+                        one{"¤00బి"}
+                        other{"¤00బి"}
+                    }
+                    100000000000{
+                        one{"¤000బి"}
+                        other{"¤000బి"}
+                    }
+                    1000000000000{
+                        one{"¤0ట్రి"}
+                        other{"¤0ట్రి"}
+                    }
+                    10000000000000{
+                        one{"¤00ట్రి"}
+                        other{"¤00ట్రి"}
+                    }
+                    100000000000000{
+                        one{"¤000ట్రి"}
+                        other{"¤000ట్రి"}
+                    }
+                }
+                decimalFormat{
+                    1000{
+                        one{"0వే"}
+                        other{"0వే"}
+                    }
+                    10000{
+                        one{"00వే"}
+                        other{"00వే"}
+                    }
+                    100000{
+                        one{"000వే"}
+                        other{"000వే"}
+                    }
+                    1000000{
+                        one{"0మి"}
+                        other{"0మి"}
+                    }
+                    10000000{
+                        one{"00మి"}
+                        other{"00మి"}
+                    }
+                    100000000{
+                        one{"000మి"}
+                        other{"000మి"}
+                    }
+                    1000000000{
+                        one{"0బి"}
+                        other{"0బి"}
+                    }
+                    10000000000{
+                        one{"00బి"}
+                        other{"00బి"}
+                    }
+                    100000000000{
+                        one{"000బి"}
+                        other{"000బి"}
+                    }
+                    1000000000000{
+                        one{"0ట్రి"}
+                        other{"0ట్రి"}
+                    }
+                    10000000000000{
+                        one{"00ట్రి"}
+                        other{"00ట్రి"}
+                    }
+                    100000000000000{
+                        one{"000ట్రి"}
+                        other{"000ట్రి"}
+                    }
+                }
+            }
+            symbols{
+                exponential{"E"}
+                infinity{"∞"}
+                list{";"}
+                nan{"NaN"}
+                perMille{"‰"}
+                superscriptingExponent{"×"}
             }
         }
         native{"telu"}
@@ -34,6 +197,16 @@ kxv_Telu{
                 "{1} త {0}",
                 "{1}, {0}",
                 "{1}, {0}",
+            }
+            DateTimeSkeletons{
+                "ahmmsszzzz",
+                "ahmmssz",
+                "ahmmss",
+                "ahmm",
+                "GyMMMMEEEEd",
+                "GyMMMMd",
+                "GyMMMd",
+                "GyMd",
             }
             availableFormats{
                 Bh{"B h"}
@@ -164,7 +337,7 @@ kxv_Telu{
                 "yMMMMEEEEd",
                 "yMMMMd",
                 "yMMMd",
-                "yMMdd",
+                "yyMd",
             }
             availableFormats{
                 Bh{"B h"}
@@ -180,6 +353,7 @@ kxv_Telu{
                 MEd{"E, d/M"}
                 MMMEd{"E, d MMM"}
                 MMMMW{
+                    one{"MMMM 'తి' 'వారా' W"}
                     other{"MMMM తి వారా W"}
                 }
                 MMMMd{"d MMMM"}
@@ -195,11 +369,30 @@ kxv_Telu{
                 yQQQ{"QQQ y"}
                 yQQQQ{"QQQQ y"}
                 yw{
+                    one{"Y 'తి' 'వారా' W"}
                     other{"Y తి వారా w"}
                 }
             }
             dayNames{
                 format{
+                    abbreviated{
+                        "వారమి",
+                        "సమ్బారా",
+                        "మాంగాడ్రా",
+                        "పుదారా",
+                        "లాకివారా",
+                        "సుక్రి",
+                        "సానివార",
+                    }
+                    short{
+                        "వా",
+                        "స",
+                        "మా",
+                        "పు",
+                        "లా",
+                        "సు",
+                        "సా",
+                    }
                     wide{
                         "వారమి",
                         "నమారా",
@@ -223,9 +416,37 @@ kxv_Telu{
                 }
             }
             dayPeriod{
+                format{
+                    abbreviated{
+                        afternoon1{"మదేన"}
+                        evening1{"మిడ్ఒలా"}
+                        midnight{"మదిమదానెకేరి"}
+                        morning1{"లఇ"}
+                        night1{"లాఆయఁ"}
+                    }
+                    narrow{
+                        afternoon1{"మదేన"}
+                        evening1{"మిడ్ఒలా"}
+                        midnight{"మా"}
+                        morning1{"లఇ"}
+                        night1{"లాఆయఁ"}
+                    }
+                    wide{
+                        afternoon1{"మదేన"}
+                        evening1{"మిడ్ఒలా"}
+                        midnight{"మదిమదానెకేరి"}
+                        morning1{"లఇ"}
+                        night1{"లాఆయఁ"}
+                    }
+                }
                 stand-alone{
                     abbreviated{
+                        afternoon1{"మదేన"}
                         am{"ఎ ఎమ్"}
+                        evening1{"మిడ్ఒలా"}
+                        midnight{"మదిమదానెకేరి"}
+                        morning1{"లఇ"}
+                        night1{"లాఆయఁ"}
                         pm{"పి ఎమ్"}
                     }
                     narrow{
@@ -233,7 +454,12 @@ kxv_Telu{
                         pm{"పి ఎమ్"}
                     }
                     wide{
+                        afternoon1{"మదెన"}
                         am{"ఎ ఎమ్"}
+                        evening1{"మిడ్ఒలా"}
+                        midnight{"మదిమదానెకేరి లాఆయఁ"}
+                        morning1{"లఇ"}
+                        night1{"లాఆయఁ"}
                         pm{"పి ఎమ్"}
                     }
                 }
@@ -319,6 +545,20 @@ kxv_Telu{
             }
             monthNames{
                 format{
+                    abbreviated{
+                        "పాండా",
+                        "మగ",
+                        "గుండి",
+                        "హిరెఇ",
+                        "బేసేకి",
+                        "లండి",
+                        "రత",
+                        "బందపాణా",
+                        "బార్సి",
+                        "దసారా",
+                        "దివిడి",
+                        "పుసు",
+                    }
                     wide{
                         "మాగ",
                         "గుండు",
@@ -444,6 +684,12 @@ kxv_Telu{
         standard{
             2{"{0} మరియు {1}"}
             end{"{0}, మరియు {1}"}
+        }
+        standard-short{
+            2{"{0} మరియు {1}"}
+            end{"{0}, మరియు {1}"}
+            middle{"{0}, {1}"}
+            start{"{0}, {1}"}
         }
         unit-narrow{
             2{"{0} {1}"}

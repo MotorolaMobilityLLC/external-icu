@@ -1528,6 +1528,7 @@ kxv_Orya{
         }
         "meta:India"{
             ls{"ବାରତ ମାନାଙ୍କ ବେଲା"}
+            ss{"ଆଇଏସଟି"}
         }
         "meta:Indian_Ocean"{
             ls{"ବାରତ କାଜା ସାମୁଦ୍ରି ବେଲା"}

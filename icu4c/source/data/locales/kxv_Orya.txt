@@ -12,8 +12,171 @@ kxv_Orya{
     NumberElements{
         latn{
             patterns{
+                accountingFormat{"¤#,##0.00;(¤#,##0.00)"}
                 currencyFormat{"¤#,##,##0.00"}
                 decimalFormat{"#,##,##0.###"}
+            }
+            patternsLong{
+                decimalFormat{
+                    1000{
+                        one{"0 ହଜାର"}
+                        other{"0 ହଜାର"}
+                    }
+                    10000{
+                        one{"00 ହଜାର"}
+                        other{"00 ହଜାର"}
+                    }
+                    100000{
+                        one{"000 ହଜାର"}
+                        other{"000 ହଜାର"}
+                    }
+                    1000000{
+                        one{"0 ନିୟୁତ"}
+                        other{"0 ନିୟୁତ"}
+                    }
+                    10000000{
+                        one{"00 ନିୟୁତ"}
+                        other{"00 ନିୟୁତ"}
+                    }
+                    100000000{
+                        one{"000 ନିୟୁତ"}
+                        other{"000 ନିୟୁତ"}
+                    }
+                    1000000000{
+                        one{"0 ବିଲିଅନ୍"}
+                        other{"0 ବିଲିଅନ୍"}
+                    }
+                    10000000000{
+                        one{"00 ବିଲିଅନ୍"}
+                        other{"00 ବିଲିଅନ୍"}
+                    }
+                    100000000000{
+                        one{"000 ବିଲିଅନ୍"}
+                        other{"000 ବିଲିଅନ୍"}
+                    }
+                    1000000000000{
+                        one{"0 ଟ୍ରିଲିଅନ୍"}
+                        other{"0 ଟ୍ରିଲିଅନ୍"}
+                    }
+                    10000000000000{
+                        one{"00 ଟ୍ରିଲିଅନ୍"}
+                        other{"00 ଟ୍ରିଲିଅନ୍"}
+                    }
+                    100000000000000{
+                        one{"000 ଟ୍ରିଲିଅନ୍"}
+                        other{"000ଟ୍ରିଲିଅନ୍"}
+                    }
+                }
+            }
+            patternsShort{
+                currencyFormat{
+                    1000{
+                        one{"¤0 ହ"}
+                        other{"¤0 ହ"}
+                    }
+                    10000{
+                        one{"¤00 ହ"}
+                        other{"¤00 ହ"}
+                    }
+                    100000{
+                        one{"¤000 ହ"}
+                        other{"¤000 ହ"}
+                    }
+                    1000000{
+                        one{"¤0 ନି"}
+                        other{"¤0 ନି"}
+                    }
+                    10000000{
+                        one{"¤00 ନି"}
+                        other{"¤00 ନି"}
+                    }
+                    100000000{
+                        one{"¤000 ନି"}
+                        other{"¤000 ନି"}
+                    }
+                    1000000000{
+                        one{"¤0ବି"}
+                        other{"¤0ବି"}
+                    }
+                    10000000000{
+                        one{"¤00ବି"}
+                        other{"¤00ବି"}
+                    }
+                    100000000000{
+                        one{"¤000ବି"}
+                        other{"¤000ବି"}
+                    }
+                    1000000000000{
+                        one{"¤0ଟ୍ରି"}
+                        other{"¤0ଟ୍ରି"}
+                    }
+                    10000000000000{
+                        one{"¤00ଟ୍ରି"}
+                        other{"¤00ଟ୍ରି"}
+                    }
+                    100000000000000{
+                        one{"¤000ଟ୍ରି"}
+                        other{"¤000ଟ୍ରି"}
+                    }
+                }
+                decimalFormat{
+                    1000{
+                        one{"0 ହ"}
+                        other{"0 ହ"}
+                    }
+                    10000{
+                        one{"00 ହ"}
+                        other{"00 ହ"}
+                    }
+                    100000{
+                        one{"000 ହ"}
+                        other{"000 ହ"}
+                    }
+                    1000000{
+                        one{"0 ନି"}
+                        other{"0 ନି"}
+                    }
+                    10000000{
+                        one{"00 ନି"}
+                        other{"00 ନି"}
+                    }
+                    100000000{
+                        one{"000 ନି"}
+                        other{"000 ନି"}
+                    }
+                    1000000000{
+                        one{"0ବି"}
+                        other{"0ବି"}
+                    }
+                    10000000000{
+                        one{"00ବି"}
+                        other{"00ବି"}
+                    }
+                    100000000000{
+                        one{"000ବି"}
+                        other{"000ବି"}
+                    }
+                    1000000000000{
+                        one{"0ଟ୍ରି"}
+                        other{"0ଟ୍ରି"}
+                    }
+                    10000000000000{
+                        one{"00ଟ୍ରି"}
+                        other{"00ଟ୍ରି"}
+                    }
+                    100000000000000{
+                        one{"000ଟ୍ରି"}
+                        other{"000ଟ୍ରି"}
+                    }
+                }
+            }
+            symbols{
+                exponential{"E"}
+                infinity{"∞"}
+                list{";"}
+                nan{"NaN"}
+                perMille{"‰"}
+                superscriptingExponent{"×"}
             }
         }
         native{"orya"}
@@ -34,6 +197,16 @@ kxv_Orya{
                 "{1} ଆଁ {0}",
                 "{1}, {0}",
                 "{1}, {0}",
+            }
+            DateTimeSkeletons{
+                "ahmmsszzzz",
+                "ahmmssz",
+                "ahmmss",
+                "ahmm",
+                "GyMMMMEEEEd",
+                "GyMMMMd",
+                "GyMMMd",
+                "GyMd",
             }
             availableFormats{
                 Bh{"B h"}
@@ -163,8 +336,8 @@ kxv_Orya{
                 "ahmm",
                 "yMMMMEEEEd",
                 "yMMMMd",
-                "yMMMd",
-                "yMMdd",
+                "yMMMMd",
+                "yyMd",
             }
             availableFormats{
                 Bh{"B h"}
@@ -180,6 +353,7 @@ kxv_Orya{
                 MEd{"E, d/M"}
                 MMMEd{"E, d MMM"}
                 MMMMW{
+                    one{"MMMM ତାଁ ୱାରା W"}
                     other{"MMMM ତାଁ ୱାରା W"}
                 }
                 MMMMd{"d MMMM"}
@@ -195,6 +369,7 @@ kxv_Orya{
                 yQQQ{"QQQ y"}
                 yQQQQ{"QQQQ y"}
                 yw{
+                    one{"Y ତାଁ ୱାରା W"}
                     other{"Y ତାଁ ୱାରା w"}
                 }
             }
@@ -221,7 +396,7 @@ kxv_Orya{
                     wide{
                         "ଆଦି ୱାରା",
                         "ସମ୍ବାରା",
-                        "ମାଙ୍ଗାଡ଼ା",
+                        "ମାଙ୍ଗାଡ଼ା",
                         "ପୁଦାରା",
                         "ଲାକି ୱାରା",
                         "ସୁକ୍ରୁ ୱାରା",
@@ -241,9 +416,37 @@ kxv_Orya{
                 }
             }
             dayPeriod{
+                format{
+                    abbreviated{
+                        afternoon1{"ମାଦି ମେଦାଣା"}
+                        evening1{"ମିଲ୍ଅଁ"}
+                        midnight{"ମାଦିନି ଲା ଆଁ"}
+                        morning1{"ଲାଆସି"}
+                        night1{"ଲା ଆଁ"}
+                    }
+                    narrow{
+                        afternoon1{"ମାଦି ମେଦାଣା"}
+                        evening1{"ମିଲ୍ଅଁ"}
+                        midnight{"ମା"}
+                        morning1{"ଲାଆସି"}
+                        night1{"ଲା ଆଁ"}
+                    }
+                    wide{
+                        afternoon1{"ମାଦି ମେଦାଣା"}
+                        evening1{"ମିଲ୍ଅଁ"}
+                        midnight{"ମାଦିନି ଲା ଆଁ"}
+                        morning1{"ଲାଆସି"}
+                        night1{"ଲା ଆଁ"}
+                    }
+                }
                 stand-alone{
                     abbreviated{
+                        afternoon1{"ମାଦିନି ମେଦାଣା"}
                         am{"ଏ ଏମ"}
+                        evening1{"ମିଲ୍ଅଁ"}
+                        midnight{"ମାଦିନି ଲା ଆଁ"}
+                        morning1{"ଲାଆସି"}
+                        night1{"ଲା ଆଁ"}
                         pm{"ପି ଏମ"}
                     }
                     narrow{
@@ -251,7 +454,12 @@ kxv_Orya{
                         pm{"ପି ଏମ"}
                     }
                     wide{
+                        afternoon1{"ମିଲ୍ଅଁ"}
                         am{"ଏ ଏମ"}
+                        evening1{"ମିଲ୍ଅଁ"}
+                        midnight{"ମାଦିନି ଲା ଆଁ"}
+                        morning1{"ଲାଆସି"}
+                        night1{"ଲା ଆଁ"}
                         pm{"ପି ଏମ"}
                     }
                 }
