@@ -1,0 +1,85 @@
+﻿// © 2016 and later: Unicode, Inc. and others.
+// License & terms of use: http://www.unicode.org/copyright.html
+// Generated using tools/cldr/cldr-to-icu/build-icu-data.xml
+kxv_Deva{
+    Currencies{
+        BRL{
+            "R$",
+            "ब्राज़ील ति रियाल",
+        }
+        CNY{
+            "CN¥",
+            "चीन ति युआन",
+        }
+        EUR{
+            "€",
+            "यूरो",
+        }
+        GBP{
+            "£",
+            "ब्रिटिस पाउंड स्टर्लिंग",
+        }
+        INR{
+            "₹",
+            "बारत  ति टाकाँ",
+        }
+        JPY{
+            "JP¥",
+            "जापान ति येन",
+        }
+        RUB{
+            "RUB",
+            "रूस ति रूबल",
+        }
+        USD{
+            "US$",
+            "यूएस डॉलर",
+        }
+        XXX{
+            "¤",
+            "पुण्-आँऽति लेबुँ",
+        }
+    }
+    CurrencyPlurals{
+        BRL{
+            one{"ब्राज़ील ति रियाल"}
+            other{"ब्राज़ील ति रियाल"}
+        }
+        CNY{
+            one{"चीन ति युआन"}
+            other{"चीन ति युआन"}
+        }
+        EUR{
+            one{"यूरो"}
+            other{"यूरो"}
+        }
+        GBP{
+            one{"ब्रिटिस पाउंड स्टर्लिंग"}
+            other{"ब्रिटिस पाउंड स्टर्लिंग"}
+        }
+        INR{
+            one{"बारत  ति टाकाँ"}
+            other{"बारत  ति टाकाँ"}
+        }
+        JPY{
+            one{"जापान ति येन"}
+            other{"जापान ति येन"}
+        }
+        RUB{
+            one{"रूस ति रूबल"}
+            other{"रूस ति रूबल"}
+        }
+        USD{
+            one{"यूएस डॉलर"}
+            other{"यूएस डॉलर"}
+        }
+        XXX{
+            one{"पुण्-आँऽति लेबुँ ताँ एकॉकॉ"}
+            other{"पुण्-आँऽति लेबुँ"}
+        }
+    }
+    CurrencyUnitPatterns{
+        one{"{0} {1}"}
+        other{"{0} {1}"}
+    }
+}

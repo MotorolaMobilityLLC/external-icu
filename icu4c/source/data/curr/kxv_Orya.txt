@@ -1,0 +1,85 @@
+﻿// © 2016 and later: Unicode, Inc. and others.
+// License & terms of use: http://www.unicode.org/copyright.html
+// Generated using tools/cldr/cldr-to-icu/build-icu-data.xml
+kxv_Orya{
+    Currencies{
+        BRL{
+            "R$",
+            "ବ୍ରାଜିଲ୍ ତି ରିଏଲ୍",
+        }
+        CNY{
+            "CN¥",
+            "ଚିନି  ତି ୟୁଆନ",
+        }
+        EUR{
+            "€",
+            "ୟୁର",
+        }
+        GBP{
+            "£",
+            "ବ୍ରିଟିସ୍ ପାଉଣ୍ଡ୍",
+        }
+        INR{
+            "₹",
+            "ବାରତ ତି ଟାକାଁ",
+        }
+        JPY{
+            "JP¥",
+            "ଜାପାନ ତି ୟେନ",
+        }
+        RUB{
+            "RUB",
+            "ରୁସିଆ ତି ରୁବଲ୍",
+        }
+        USD{
+            "US$",
+            "ୟୁ ଏସ  ଡଲାର",
+        }
+        XXX{
+            "¤",
+            "ପୁଣ୍‍ଆତି ଲେବୁଁ",
+        }
+    }
+    CurrencyPlurals{
+        BRL{
+            one{"ବ୍ରାଜିଲ୍ ତି ରିଏଲ୍"}
+            other{"ବ୍ରାଜିଲ୍ ତି ରିଏଲ୍"}
+        }
+        CNY{
+            one{"ଚିନି  ତି ୟୁଆନ"}
+            other{"ଚିନି  ତି ୟୁଆନ"}
+        }
+        EUR{
+            one{"ୟୁର"}
+            other{"ୟୁରସ୍"}
+        }
+        GBP{
+            one{"ବ୍ରିଟିସ୍ ପାଉଣ୍ଡ୍"}
+            other{"ବ୍ରିଟିସ୍ ପାଉଣ୍ଡ୍"}
+        }
+        INR{
+            one{"ବାରତ ତି ଟାକାଁ"}
+            other{"ବାରତ ତି ଟାକାଁ"}
+        }
+        JPY{
+            one{"ଜାପାନ ତି ୟେନ"}
+            other{"ଜାପାନ ତି ୟେନ"}
+        }
+        RUB{
+            one{"ରୁସିଆ ତି ରୁବଲ୍"}
+            other{"ରୁସିଆ ତି ରୁବଲ୍ସ"}
+        }
+        USD{
+            one{"ୟୁ ଏସ  ଡଲାର"}
+            other{"ୟୁ ଏସ  ଡଲାର୍‍ସ୍"}
+        }
+        XXX{
+            one{"ପୁଣ୍‍ଆତି ଲେବୁଁ ତାଁ ଏକକ"}
+            other{"ପୁଣ୍ଆତି ଲେବୁଁ"}
+        }
+    }
+    CurrencyUnitPatterns{
+        one{"{0} {1}"}
+        other{"{0} {1}"}
+    }
+}
